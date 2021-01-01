@@ -1,0 +1,7 @@
+E:\C#\HackerrankfizzBuss\bin\Debug\HackerrankfizzBuss.exe.config
+E:\C#\HackerrankfizzBuss\bin\Debug\HackerrankfizzBuss.exe
+E:\C#\HackerrankfizzBuss\bin\Debug\HackerrankfizzBuss.pdb
+E:\C#\HackerrankfizzBuss\obj\Debug\HackerrankfizzBuss.csprojAssemblyReference.cache
+E:\C#\HackerrankfizzBuss\obj\Debug\HackerrankfizzBuss.csproj.CoreCompileInputs.cache
+E:\C#\HackerrankfizzBuss\obj\Debug\HackerrankfizzBuss.exe
+E:\C#\HackerrankfizzBuss\obj\Debug\HackerrankfizzBuss.pdb

@@ -1,0 +1,5 @@
+D:\C#\Day3hackerankconditional\bin\Debug\Day3hackerankconditional.exe.config
+D:\C#\Day3hackerankconditional\bin\Debug\Day3hackerankconditional.exe
+D:\C#\Day3hackerankconditional\bin\Debug\Day3hackerankconditional.pdb
+D:\C#\Day3hackerankconditional\obj\Debug\Day3hackerankconditional.exe
+D:\C#\Day3hackerankconditional\obj\Debug\Day3hackerankconditional.pdb

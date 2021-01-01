@@ -1,0 +1,7 @@
+E:\C#\HackerrankSherlockAndSquares\bin\Debug\HackerrankSherlockAndSquares.exe.config
+E:\C#\HackerrankSherlockAndSquares\bin\Debug\HackerrankSherlockAndSquares.exe
+E:\C#\HackerrankSherlockAndSquares\bin\Debug\HackerrankSherlockAndSquares.pdb
+E:\C#\HackerrankSherlockAndSquares\obj\Debug\HackerrankSherlockAndSquares.csprojAssemblyReference.cache
+E:\C#\HackerrankSherlockAndSquares\obj\Debug\HackerrankSherlockAndSquares.csproj.CoreCompileInputs.cache
+E:\C#\HackerrankSherlockAndSquares\obj\Debug\HackerrankSherlockAndSquares.exe
+E:\C#\HackerrankSherlockAndSquares\obj\Debug\HackerrankSherlockAndSquares.pdb

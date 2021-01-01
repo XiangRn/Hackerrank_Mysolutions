@@ -1,0 +1,6 @@
+D:\C#\Day6hackerankreview\bin\Debug\Day6hackerankreview.exe.config
+D:\C#\Day6hackerankreview\bin\Debug\Day6hackerankreview.exe
+D:\C#\Day6hackerankreview\bin\Debug\Day6hackerankreview.pdb
+D:\C#\Day6hackerankreview\obj\Debug\Day6hackerankreview.csprojAssemblyReference.cache
+D:\C#\Day6hackerankreview\obj\Debug\Day6hackerankreview.exe
+D:\C#\Day6hackerankreview\obj\Debug\Day6hackerankreview.pdb

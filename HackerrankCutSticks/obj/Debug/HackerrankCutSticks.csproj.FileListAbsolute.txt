@@ -1,0 +1,7 @@
+E:\HK\HackerrankCutSticks\bin\Debug\HackerrankCutSticks.exe.config
+E:\HK\HackerrankCutSticks\bin\Debug\HackerrankCutSticks.exe
+E:\HK\HackerrankCutSticks\bin\Debug\HackerrankCutSticks.pdb
+E:\HK\HackerrankCutSticks\obj\Debug\HackerrankCutSticks.csprojAssemblyReference.cache
+E:\HK\HackerrankCutSticks\obj\Debug\HackerrankCutSticks.csproj.CoreCompileInputs.cache
+E:\HK\HackerrankCutSticks\obj\Debug\HackerrankCutSticks.exe
+E:\HK\HackerrankCutSticks\obj\Debug\HackerrankCutSticks.pdb

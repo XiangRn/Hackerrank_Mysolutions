@@ -1,0 +1,7 @@
+E:\C#\BirthdayCakeCandles\bin\Debug\BirthdayCakeCandles.exe.config
+E:\C#\BirthdayCakeCandles\bin\Debug\BirthdayCakeCandles.exe
+E:\C#\BirthdayCakeCandles\bin\Debug\BirthdayCakeCandles.pdb
+E:\C#\BirthdayCakeCandles\obj\Debug\BirthdayCakeCandles.csprojAssemblyReference.cache
+E:\C#\BirthdayCakeCandles\obj\Debug\BirthdayCakeCandles.csproj.CoreCompileInputs.cache
+E:\C#\BirthdayCakeCandles\obj\Debug\BirthdayCakeCandles.exe
+E:\C#\BirthdayCakeCandles\obj\Debug\BirthdayCakeCandles.pdb

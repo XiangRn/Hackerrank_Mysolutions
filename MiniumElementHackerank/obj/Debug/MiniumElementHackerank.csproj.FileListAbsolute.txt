@@ -1,0 +1,7 @@
+E:\C#\MiniumElementHackerank\bin\Debug\MiniumElementHackerank.exe.config
+E:\C#\MiniumElementHackerank\bin\Debug\MiniumElementHackerank.exe
+E:\C#\MiniumElementHackerank\bin\Debug\MiniumElementHackerank.pdb
+E:\C#\MiniumElementHackerank\obj\Debug\MiniumElementHackerank.csproj.CoreCompileInputs.cache
+E:\C#\MiniumElementHackerank\obj\Debug\MiniumElementHackerank.exe
+E:\C#\MiniumElementHackerank\obj\Debug\MiniumElementHackerank.pdb
+E:\C#\MiniumElementHackerank\obj\Debug\MiniumElementHackerank.csprojAssemblyReference.cache

@@ -1,0 +1,6 @@
+E:\C#\Day8RecursionHackerank\bin\Debug\Day8RecursionHackerank.exe.config
+E:\C#\Day8RecursionHackerank\bin\Debug\Day8RecursionHackerank.exe
+E:\C#\Day8RecursionHackerank\bin\Debug\Day8RecursionHackerank.pdb
+E:\C#\Day8RecursionHackerank\obj\Debug\Day9RecursionHackerank.csproj.CoreCompileInputs.cache
+E:\C#\Day8RecursionHackerank\obj\Debug\Day8RecursionHackerank.exe
+E:\C#\Day8RecursionHackerank\obj\Debug\Day8RecursionHackerank.pdb

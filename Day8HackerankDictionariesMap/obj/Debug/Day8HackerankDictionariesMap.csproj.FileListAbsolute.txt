@@ -1,0 +1,7 @@
+E:\C#\Day8HackerankDictionariesMap\bin\Debug\Day8HackerankDictionariesMap.exe.config
+E:\C#\Day8HackerankDictionariesMap\bin\Debug\Day8HackerankDictionariesMap.exe
+E:\C#\Day8HackerankDictionariesMap\bin\Debug\Day8HackerankDictionariesMap.pdb
+E:\C#\Day8HackerankDictionariesMap\obj\Debug\Day8HackerankDictionariesMap.csproj.CoreCompileInputs.cache
+E:\C#\Day8HackerankDictionariesMap\obj\Debug\Day8HackerankDictionariesMap.exe
+E:\C#\Day8HackerankDictionariesMap\obj\Debug\Day8HackerankDictionariesMap.pdb
+E:\C#\Day8HackerankDictionariesMap\obj\Debug\Day8HackerankDictionariesMap.csprojAssemblyReference.cache

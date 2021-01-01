@@ -1,0 +1,7 @@
+E:\C#\Day4hackerrankClassInstance\bin\Debug\Day4hackerrankClassInstance.exe.config
+E:\C#\Day4hackerrankClassInstance\bin\Debug\Day4hackerrankClassInstance.exe
+E:\C#\Day4hackerrankClassInstance\bin\Debug\Day4hackerrankClassInstance.pdb
+E:\C#\Day4hackerrankClassInstance\obj\Debug\Day4hackerrankClassInstance.csprojAssemblyReference.cache
+E:\C#\Day4hackerrankClassInstance\obj\Debug\Day4hackerrankClassInstance.csproj.CoreCompileInputs.cache
+E:\C#\Day4hackerrankClassInstance\obj\Debug\Day4hackerrankClassInstance.exe
+E:\C#\Day4hackerrankClassInstance\obj\Debug\Day4hackerrankClassInstance.pdb

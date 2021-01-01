@@ -1,0 +1,7 @@
+E:\C#\Markandtoys\bin\Debug\Markandtoys.exe.config
+E:\C#\Markandtoys\bin\Debug\Markandtoys.exe
+E:\C#\Markandtoys\bin\Debug\Markandtoys.pdb
+E:\C#\Markandtoys\obj\Debug\Markandtoys.csprojAssemblyReference.cache
+E:\C#\Markandtoys\obj\Debug\Markandtoys.csproj.CoreCompileInputs.cache
+E:\C#\Markandtoys\obj\Debug\Markandtoys.exe
+E:\C#\Markandtoys\obj\Debug\Markandtoys.pdb
