@@ -39,6 +39,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerrankClimbingTheLeader
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerrankCutSticks", "..\HackerrankCutSticks\HackerrankCutSticks.csproj", "{44302AAD-19BA-4497-9550-727745DBEDDD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbsoluteValueSort", "..\AbsoluteValueSort\AbsoluteValueSort.csproj", "{DA85F2A0-4C3A-4AFD-A7D2-8C676951CF67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaesarCipher", "..\CaesarCipher\CaesarCipher.csproj", "{49ED455B-9D72-4EE3-A7CA-7EF20790651F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +121,14 @@ Global
 		{44302AAD-19BA-4497-9550-727745DBEDDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{44302AAD-19BA-4497-9550-727745DBEDDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{44302AAD-19BA-4497-9550-727745DBEDDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA85F2A0-4C3A-4AFD-A7D2-8C676951CF67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA85F2A0-4C3A-4AFD-A7D2-8C676951CF67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA85F2A0-4C3A-4AFD-A7D2-8C676951CF67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA85F2A0-4C3A-4AFD-A7D2-8C676951CF67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49ED455B-9D72-4EE3-A7CA-7EF20790651F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49ED455B-9D72-4EE3-A7CA-7EF20790651F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49ED455B-9D72-4EE3-A7CA-7EF20790651F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49ED455B-9D72-4EE3-A7CA-7EF20790651F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

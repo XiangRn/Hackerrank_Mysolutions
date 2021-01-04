@@ -29,6 +29,7 @@ namespace HackerrankCutSticks
             ;
             int[] result = cutTheSticks(arr);
 
+           
             Console.WriteLine(string.Join("\n", result));
             //var n = int.Parse(Console.ReadLine());
             //var arr_temp = Console.ReadLine().Split(' ');
