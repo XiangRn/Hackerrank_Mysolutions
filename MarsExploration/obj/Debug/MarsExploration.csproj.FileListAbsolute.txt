@@ -1,0 +1,7 @@
+E:\HKrank\MarsExploration\bin\Debug\MarsExploration.exe.config
+E:\HKrank\MarsExploration\bin\Debug\MarsExploration.exe
+E:\HKrank\MarsExploration\bin\Debug\MarsExploration.pdb
+E:\HKrank\MarsExploration\obj\Debug\MarsExploration.csprojAssemblyReference.cache
+E:\HKrank\MarsExploration\obj\Debug\MarsExploration.csproj.CoreCompileInputs.cache
+E:\HKrank\MarsExploration\obj\Debug\MarsExploration.exe
+E:\HKrank\MarsExploration\obj\Debug\MarsExploration.pdb

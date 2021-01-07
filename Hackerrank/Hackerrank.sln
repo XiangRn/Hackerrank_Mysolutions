@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbsoluteValueSort", "..\Abs
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaesarCipher", "..\CaesarCipher\CaesarCipher.csproj", "{49ED455B-9D72-4EE3-A7CA-7EF20790651F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarsExploration", "..\MarsExploration\MarsExploration.csproj", "{66548B2D-5623-48A3-8C6E-3859C57E47A5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{49ED455B-9D72-4EE3-A7CA-7EF20790651F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{49ED455B-9D72-4EE3-A7CA-7EF20790651F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{49ED455B-9D72-4EE3-A7CA-7EF20790651F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66548B2D-5623-48A3-8C6E-3859C57E47A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66548B2D-5623-48A3-8C6E-3859C57E47A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66548B2D-5623-48A3-8C6E-3859C57E47A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66548B2D-5623-48A3-8C6E-3859C57E47A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
