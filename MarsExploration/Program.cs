@@ -31,9 +31,7 @@ namespace MarsExploration
                 }
                 s = s.Substring(3, s.Length - 3);
                 return count + marsExploration(s);
-            }
-           
-           
+            }                    
 
         }
         static void Main(string[] args)
