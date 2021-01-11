@@ -49,6 +49,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRankinaString", "..\H
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pangrams", "..\Pangrams\Pangrams.csproj", "{D8F7DC50-7949-4972-8105-2A58574E081F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindThePoints", "..\FindThePoints\FindThePoints.csproj", "{9AAAA446-0510-48F7-B9AD-03F0E8275F0A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +149,10 @@ Global
 		{D8F7DC50-7949-4972-8105-2A58574E081F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D8F7DC50-7949-4972-8105-2A58574E081F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D8F7DC50-7949-4972-8105-2A58574E081F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AAAA446-0510-48F7-B9AD-03F0E8275F0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AAAA446-0510-48F7-B9AD-03F0E8275F0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AAAA446-0510-48F7-B9AD-03F0E8275F0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AAAA446-0510-48F7-B9AD-03F0E8275F0A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

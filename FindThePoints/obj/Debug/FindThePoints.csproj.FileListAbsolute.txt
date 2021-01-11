@@ -1,0 +1,7 @@
+E:\HKrank\FindThePoints\bin\Debug\FindThePoints.exe.config
+E:\HKrank\FindThePoints\bin\Debug\FindThePoints.exe
+E:\HKrank\FindThePoints\bin\Debug\FindThePoints.pdb
+E:\HKrank\FindThePoints\obj\Debug\FindThePoints.csprojAssemblyReference.cache
+E:\HKrank\FindThePoints\obj\Debug\FindThePoints.csproj.CoreCompileInputs.cache
+E:\HKrank\FindThePoints\obj\Debug\FindThePoints.exe
+E:\HKrank\FindThePoints\obj\Debug\FindThePoints.pdb
