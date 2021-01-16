@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pangrams", "..\Pangrams\Pan
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindThePoints", "..\FindThePoints\FindThePoints.csproj", "{9AAAA446-0510-48F7-B9AD-03F0E8275F0A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtraLongFactorials", "..\ExtraLongFactorials\ExtraLongFactorials.csproj", "{8D1615C2-D6AA-40CF-BA9F-79838B1A263F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{9AAAA446-0510-48F7-B9AD-03F0E8275F0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9AAAA446-0510-48F7-B9AD-03F0E8275F0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9AAAA446-0510-48F7-B9AD-03F0E8275F0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D1615C2-D6AA-40CF-BA9F-79838B1A263F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D1615C2-D6AA-40CF-BA9F-79838B1A263F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D1615C2-D6AA-40CF-BA9F-79838B1A263F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D1615C2-D6AA-40CF-BA9F-79838B1A263F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,7 @@
+E:\HKrank\ExtraLongFactorials\bin\Debug\ExtraLongFactorials.exe.config
+E:\HKrank\ExtraLongFactorials\bin\Debug\ExtraLongFactorials.exe
+E:\HKrank\ExtraLongFactorials\bin\Debug\ExtraLongFactorials.pdb
+E:\HKrank\ExtraLongFactorials\obj\Debug\ExtraLongFactorials.csprojAssemblyReference.cache
+E:\HKrank\ExtraLongFactorials\obj\Debug\ExtraLongFactorials.csproj.CoreCompileInputs.cache
+E:\HKrank\ExtraLongFactorials\obj\Debug\ExtraLongFactorials.exe
+E:\HKrank\ExtraLongFactorials\obj\Debug\ExtraLongFactorials.pdb
