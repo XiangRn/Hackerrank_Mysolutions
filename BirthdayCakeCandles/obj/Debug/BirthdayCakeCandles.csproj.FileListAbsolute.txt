@@ -5,3 +5,10 @@ E:\C#\BirthdayCakeCandles\obj\Debug\BirthdayCakeCandles.csprojAssemblyReference.
 E:\C#\BirthdayCakeCandles\obj\Debug\BirthdayCakeCandles.csproj.CoreCompileInputs.cache
 E:\C#\BirthdayCakeCandles\obj\Debug\BirthdayCakeCandles.exe
 E:\C#\BirthdayCakeCandles\obj\Debug\BirthdayCakeCandles.pdb
+E:\HKrank\BirthdayCakeCandles\bin\Debug\BirthdayCakeCandles.exe.config
+E:\HKrank\BirthdayCakeCandles\bin\Debug\BirthdayCakeCandles.exe
+E:\HKrank\BirthdayCakeCandles\bin\Debug\BirthdayCakeCandles.pdb
+E:\HKrank\BirthdayCakeCandles\obj\Debug\BirthdayCakeCandles.csprojAssemblyReference.cache
+E:\HKrank\BirthdayCakeCandles\obj\Debug\BirthdayCakeCandles.csproj.CoreCompileInputs.cache
+E:\HKrank\BirthdayCakeCandles\obj\Debug\BirthdayCakeCandles.exe
+E:\HKrank\BirthdayCakeCandles\obj\Debug\BirthdayCakeCandles.pdb

@@ -5,3 +5,10 @@ E:\C#\HackerrankfizzBuss\obj\Debug\HackerrankfizzBuss.csprojAssemblyReference.ca
 E:\C#\HackerrankfizzBuss\obj\Debug\HackerrankfizzBuss.csproj.CoreCompileInputs.cache
 E:\C#\HackerrankfizzBuss\obj\Debug\HackerrankfizzBuss.exe
 E:\C#\HackerrankfizzBuss\obj\Debug\HackerrankfizzBuss.pdb
+E:\HKrank\HackerrankfizzBuss\bin\Debug\HackerrankfizzBuss.exe.config
+E:\HKrank\HackerrankfizzBuss\bin\Debug\HackerrankfizzBuss.exe
+E:\HKrank\HackerrankfizzBuss\bin\Debug\HackerrankfizzBuss.pdb
+E:\HKrank\HackerrankfizzBuss\obj\Debug\HackerrankfizzBuss.csprojAssemblyReference.cache
+E:\HKrank\HackerrankfizzBuss\obj\Debug\HackerrankfizzBuss.csproj.CoreCompileInputs.cache
+E:\HKrank\HackerrankfizzBuss\obj\Debug\HackerrankfizzBuss.exe
+E:\HKrank\HackerrankfizzBuss\obj\Debug\HackerrankfizzBuss.pdb

@@ -5,3 +5,9 @@ E:\C#\FindDigitsHackerrank\obj\Debug\FindDigitsHackerrank.csprojAssemblyReferenc
 E:\C#\FindDigitsHackerrank\obj\Debug\FindDigitsHackerrank.csproj.CoreCompileInputs.cache
 E:\C#\FindDigitsHackerrank\obj\Debug\FindDigitsHackerrank.exe
 E:\C#\FindDigitsHackerrank\obj\Debug\FindDigitsHackerrank.pdb
+E:\HKrank\FindDigitsHackerrank\bin\Debug\FindDigitsHackerrank.exe.config
+E:\HKrank\FindDigitsHackerrank\bin\Debug\FindDigitsHackerrank.exe
+E:\HKrank\FindDigitsHackerrank\bin\Debug\FindDigitsHackerrank.pdb
+E:\HKrank\FindDigitsHackerrank\obj\Debug\FindDigitsHackerrank.csproj.CoreCompileInputs.cache
+E:\HKrank\FindDigitsHackerrank\obj\Debug\FindDigitsHackerrank.exe
+E:\HKrank\FindDigitsHackerrank\obj\Debug\FindDigitsHackerrank.pdb

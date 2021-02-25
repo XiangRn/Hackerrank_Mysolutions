@@ -5,3 +5,10 @@ E:\C#\HundleRaceHackerank\obj\Debug\HundleRaceHackerank.csprojAssemblyReference.
 E:\C#\HundleRaceHackerank\obj\Debug\HundleRaceHackerank.csproj.CoreCompileInputs.cache
 E:\C#\HundleRaceHackerank\obj\Debug\HundleRaceHackerank.exe
 E:\C#\HundleRaceHackerank\obj\Debug\HundleRaceHackerank.pdb
+E:\HKrank\HundleRaceHackerank\bin\Debug\HundleRaceHackerank.exe.config
+E:\HKrank\HundleRaceHackerank\bin\Debug\HundleRaceHackerank.exe
+E:\HKrank\HundleRaceHackerank\bin\Debug\HundleRaceHackerank.pdb
+E:\HKrank\HundleRaceHackerank\obj\Debug\HundleRaceHackerank.csprojAssemblyReference.cache
+E:\HKrank\HundleRaceHackerank\obj\Debug\HundleRaceHackerank.csproj.CoreCompileInputs.cache
+E:\HKrank\HundleRaceHackerank\obj\Debug\HundleRaceHackerank.exe
+E:\HKrank\HundleRaceHackerank\obj\Debug\HundleRaceHackerank.pdb

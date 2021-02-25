@@ -1,0 +1,6 @@
+E:\HKrank\Leonardo'sPrimeFactors\bin\Debug\Leonardo'sPrimeFactors.exe.config
+E:\HKrank\Leonardo'sPrimeFactors\bin\Debug\Leonardo'sPrimeFactors.exe
+E:\HKrank\Leonardo'sPrimeFactors\bin\Debug\Leonardo'sPrimeFactors.pdb
+E:\HKrank\Leonardo'sPrimeFactors\obj\Debug\Leonardo'sPrimeFactors.csproj.CoreCompileInputs.cache
+E:\HKrank\Leonardo'sPrimeFactors\obj\Debug\Leonardo'sPrimeFactors.exe
+E:\HKrank\Leonardo'sPrimeFactors\obj\Debug\Leonardo'sPrimeFactors.pdb

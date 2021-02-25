@@ -1,7 +1,6 @@
 E:\HKrank\Pangrams\bin\Debug\Pangrams.exe.config
 E:\HKrank\Pangrams\bin\Debug\Pangrams.exe
 E:\HKrank\Pangrams\bin\Debug\Pangrams.pdb
-E:\HKrank\Pangrams\obj\Debug\Pangrams.csprojAssemblyReference.cache
 E:\HKrank\Pangrams\obj\Debug\Pangrams.csproj.CoreCompileInputs.cache
 E:\HKrank\Pangrams\obj\Debug\Pangrams.exe
 E:\HKrank\Pangrams\obj\Debug\Pangrams.pdb

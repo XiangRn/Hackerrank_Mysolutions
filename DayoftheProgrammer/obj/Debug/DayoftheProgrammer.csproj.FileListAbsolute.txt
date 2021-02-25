@@ -1,0 +1,6 @@
+E:\HKrank\DayoftheProgrammer\bin\Debug\DayoftheProgrammer.exe.config
+E:\HKrank\DayoftheProgrammer\bin\Debug\DayoftheProgrammer.exe
+E:\HKrank\DayoftheProgrammer\bin\Debug\DayoftheProgrammer.pdb
+E:\HKrank\DayoftheProgrammer\obj\Debug\DayoftheProgrammer.csproj.CoreCompileInputs.cache
+E:\HKrank\DayoftheProgrammer\obj\Debug\DayoftheProgrammer.exe
+E:\HKrank\DayoftheProgrammer\obj\Debug\DayoftheProgrammer.pdb

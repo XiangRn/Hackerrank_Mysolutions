@@ -5,3 +5,7 @@ E:\C#\MiniumElementHackerank\obj\Debug\MiniumElementHackerank.csproj.CoreCompile
 E:\C#\MiniumElementHackerank\obj\Debug\MiniumElementHackerank.exe
 E:\C#\MiniumElementHackerank\obj\Debug\MiniumElementHackerank.pdb
 E:\C#\MiniumElementHackerank\obj\Debug\MiniumElementHackerank.csprojAssemblyReference.cache
+E:\HKrank\MiniumElementHackerank\obj\Debug\MiniumElementHackerank.csprojAssemblyReference.cache
+E:\HKrank\MiniumElementHackerank\obj\Debug\MiniumElementHackerank.csproj.CoreCompileInputs.cache
+E:\HKrank\MiniumElementHackerank\obj\Debug\MiniumElementHackerank.exe
+E:\HKrank\MiniumElementHackerank\obj\Debug\MiniumElementHackerank.pdb

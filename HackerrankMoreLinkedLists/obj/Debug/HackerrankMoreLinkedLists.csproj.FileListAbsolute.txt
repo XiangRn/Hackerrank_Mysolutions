@@ -5,3 +5,9 @@ E:\C#\HackerrankMoreLinkedLists\obj\Debug\HackerrankMoreLinkedLists.csprojAssemb
 E:\C#\HackerrankMoreLinkedLists\obj\Debug\HackerrankMoreLinkedLists.csproj.CoreCompileInputs.cache
 E:\C#\HackerrankMoreLinkedLists\obj\Debug\HackerrankMoreLinkedLists.exe
 E:\C#\HackerrankMoreLinkedLists\obj\Debug\HackerrankMoreLinkedLists.pdb
+E:\HKrank\HackerrankMoreLinkedLists\bin\Debug\HackerrankMoreLinkedLists.exe.config
+E:\HKrank\HackerrankMoreLinkedLists\bin\Debug\HackerrankMoreLinkedLists.exe
+E:\HKrank\HackerrankMoreLinkedLists\bin\Debug\HackerrankMoreLinkedLists.pdb
+E:\HKrank\HackerrankMoreLinkedLists\obj\Debug\HackerrankMoreLinkedLists.csproj.CoreCompileInputs.cache
+E:\HKrank\HackerrankMoreLinkedLists\obj\Debug\HackerrankMoreLinkedLists.exe
+E:\HKrank\HackerrankMoreLinkedLists\obj\Debug\HackerrankMoreLinkedLists.pdb
