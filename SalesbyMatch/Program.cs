@@ -16,15 +16,13 @@ namespace SalesbyMatch
                 int count = 1;
                 for (int j = 1; j < ar.Length; j++)
                 {
-
                     if (ar.ElementAt(0) == ar[j])
                     {
                         count++;
                     }
                 }
                 if (count > 1)
-                {
-            
+                {            
                     sum += count / 2;
                 
                 }

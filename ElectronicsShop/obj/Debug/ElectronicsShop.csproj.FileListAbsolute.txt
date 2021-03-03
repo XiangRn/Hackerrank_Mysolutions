@@ -1,0 +1,7 @@
+E:\HKrank\ElectronicsShop\bin\Debug\ElectronicsShop.exe.config
+E:\HKrank\ElectronicsShop\bin\Debug\ElectronicsShop.exe
+E:\HKrank\ElectronicsShop\bin\Debug\ElectronicsShop.pdb
+E:\HKrank\ElectronicsShop\obj\Debug\ElectronicsShop.csprojAssemblyReference.cache
+E:\HKrank\ElectronicsShop\obj\Debug\ElectronicsShop.csproj.CoreCompileInputs.cache
+E:\HKrank\ElectronicsShop\obj\Debug\ElectronicsShop.exe
+E:\HKrank\ElectronicsShop\obj\Debug\ElectronicsShop.pdb

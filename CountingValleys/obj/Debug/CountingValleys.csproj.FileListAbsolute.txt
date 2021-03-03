@@ -1,0 +1,7 @@
+E:\HKrank\CountingValleys\bin\Debug\CountingValleys.exe.config
+E:\HKrank\CountingValleys\bin\Debug\CountingValleys.exe
+E:\HKrank\CountingValleys\bin\Debug\CountingValleys.pdb
+E:\HKrank\CountingValleys\obj\Debug\CountingValleys.csprojAssemblyReference.cache
+E:\HKrank\CountingValleys\obj\Debug\CountingValleys.csproj.CoreCompileInputs.cache
+E:\HKrank\CountingValleys\obj\Debug\CountingValleys.exe
+E:\HKrank\CountingValleys\obj\Debug\CountingValleys.pdb
