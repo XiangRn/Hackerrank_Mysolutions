@@ -85,6 +85,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MigratoryBirds", "..\Migrat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubarrayDivision", "..\SubarrayDivision\SubarrayDivision.csproj", "{5B09FD78-BBAE-4280-B6CA-C3C817B604AB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parralel", "..\Parralel\Parralel.csproj", "{A3179205-7FDF-40BF-8C9F-64BC19AB1875}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestSubarray", "..\LongestSubarray\LongestSubarray.csproj", "{35454CFE-58E2-44EF-9B62-7B042377841A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -255,6 +259,14 @@ Global
 		{5B09FD78-BBAE-4280-B6CA-C3C817B604AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B09FD78-BBAE-4280-B6CA-C3C817B604AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B09FD78-BBAE-4280-B6CA-C3C817B604AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3179205-7FDF-40BF-8C9F-64BC19AB1875}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3179205-7FDF-40BF-8C9F-64BC19AB1875}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3179205-7FDF-40BF-8C9F-64BC19AB1875}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3179205-7FDF-40BF-8C9F-64BC19AB1875}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35454CFE-58E2-44EF-9B62-7B042377841A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35454CFE-58E2-44EF-9B62-7B042377841A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35454CFE-58E2-44EF-9B62-7B042377841A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35454CFE-58E2-44EF-9B62-7B042377841A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

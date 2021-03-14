@@ -1,0 +1,7 @@
+E:\HKrank\Parralel\bin\Debug\Parralel.exe.config
+E:\HKrank\Parralel\bin\Debug\Parralel.exe
+E:\HKrank\Parralel\bin\Debug\Parralel.pdb
+E:\HKrank\Parralel\obj\Debug\Parralel.csprojAssemblyReference.cache
+E:\HKrank\Parralel\obj\Debug\Parralel.csproj.CoreCompileInputs.cache
+E:\HKrank\Parralel\obj\Debug\Parralel.exe
+E:\HKrank\Parralel\obj\Debug\Parralel.pdb
