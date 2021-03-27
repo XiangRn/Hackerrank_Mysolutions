@@ -91,6 +91,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestSubarray", "..\Longe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntrotoDatabases", "..\IntrotoDatabases\IntrotoDatabases.csproj", "{D464A32D-A059-4C6D-8F30-9EE3439092C4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetweenTwoSets", "..\BetweenTwoSets\BetweenTwoSets.csproj", "{48264064-3FE0-4738-B708-67D6487A12FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -273,6 +275,10 @@ Global
 		{D464A32D-A059-4C6D-8F30-9EE3439092C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D464A32D-A059-4C6D-8F30-9EE3439092C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D464A32D-A059-4C6D-8F30-9EE3439092C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48264064-3FE0-4738-B708-67D6487A12FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48264064-3FE0-4738-B708-67D6487A12FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48264064-3FE0-4738-B708-67D6487A12FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48264064-3FE0-4738-B708-67D6487A12FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
