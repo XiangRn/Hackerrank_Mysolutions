@@ -45,8 +45,7 @@ namespace BetweenTwoSets
                 }
             }
             if (a.Length > 1)
-            {
-               
+            {               
                 count = 0;
                 for (int i = 0; i < a.Length - 1; i++)
                 {
