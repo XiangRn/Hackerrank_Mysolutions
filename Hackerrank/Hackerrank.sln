@@ -95,6 +95,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetweenTwoSets", "..\Betwee
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperReducedString", "..\SuperReducedString\SuperReducedString.csproj", "{60DB0D04-E8DF-4096-9F94-E365581BE66A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CamelCase", "..\CamelCase\CamelCase.csproj", "{66D89000-D8E0-44FB-AE13-E9F813C31A40}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -285,6 +287,10 @@ Global
 		{60DB0D04-E8DF-4096-9F94-E365581BE66A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{60DB0D04-E8DF-4096-9F94-E365581BE66A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{60DB0D04-E8DF-4096-9F94-E365581BE66A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66D89000-D8E0-44FB-AE13-E9F813C31A40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66D89000-D8E0-44FB-AE13-E9F813C31A40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66D89000-D8E0-44FB-AE13-E9F813C31A40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66D89000-D8E0-44FB-AE13-E9F813C31A40}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
