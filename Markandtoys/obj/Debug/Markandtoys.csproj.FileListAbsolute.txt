@@ -8,7 +8,6 @@ E:\C#\Markandtoys\obj\Debug\Markandtoys.pdb
 E:\HKrank\Markandtoys\bin\Debug\Markandtoys.exe.config
 E:\HKrank\Markandtoys\bin\Debug\Markandtoys.exe
 E:\HKrank\Markandtoys\bin\Debug\Markandtoys.pdb
-E:\HKrank\Markandtoys\obj\Debug\Markandtoys.csprojAssemblyReference.cache
 E:\HKrank\Markandtoys\obj\Debug\Markandtoys.csproj.CoreCompileInputs.cache
 E:\HKrank\Markandtoys\obj\Debug\Markandtoys.exe
 E:\HKrank\Markandtoys\obj\Debug\Markandtoys.pdb

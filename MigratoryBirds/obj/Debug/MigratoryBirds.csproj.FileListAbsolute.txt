@@ -1,7 +1,6 @@
 E:\HKrank\MigratoryBirds\bin\Debug\MigratoryBirds.exe.config
 E:\HKrank\MigratoryBirds\bin\Debug\MigratoryBirds.exe
 E:\HKrank\MigratoryBirds\bin\Debug\MigratoryBirds.pdb
-E:\HKrank\MigratoryBirds\obj\Debug\MigratoryBirds.csprojAssemblyReference.cache
 E:\HKrank\MigratoryBirds\obj\Debug\MigratoryBirds.csproj.CoreCompileInputs.cache
 E:\HKrank\MigratoryBirds\obj\Debug\MigratoryBirds.exe
 E:\HKrank\MigratoryBirds\obj\Debug\MigratoryBirds.pdb

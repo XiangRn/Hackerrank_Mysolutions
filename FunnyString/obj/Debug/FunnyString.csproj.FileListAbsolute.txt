@@ -1,0 +1,7 @@
+E:\HKrank\FunnyString\bin\Debug\FunnyString.exe.config
+E:\HKrank\FunnyString\bin\Debug\FunnyString.exe
+E:\HKrank\FunnyString\bin\Debug\FunnyString.pdb
+E:\HKrank\FunnyString\obj\Debug\FunnyString.csprojAssemblyReference.cache
+E:\HKrank\FunnyString\obj\Debug\FunnyString.csproj.CoreCompileInputs.cache
+E:\HKrank\FunnyString\obj\Debug\FunnyString.exe
+E:\HKrank\FunnyString\obj\Debug\FunnyString.pdb

@@ -1,7 +1,6 @@
 E:\HKrank\CamelCase\bin\Debug\CamelCase.exe.config
 E:\HKrank\CamelCase\bin\Debug\CamelCase.exe
 E:\HKrank\CamelCase\bin\Debug\CamelCase.pdb
-E:\HKrank\CamelCase\obj\Debug\CamelCase.csprojAssemblyReference.cache
 E:\HKrank\CamelCase\obj\Debug\CamelCase.csproj.CoreCompileInputs.cache
 E:\HKrank\CamelCase\obj\Debug\CamelCase.exe
 E:\HKrank\CamelCase\obj\Debug\CamelCase.pdb

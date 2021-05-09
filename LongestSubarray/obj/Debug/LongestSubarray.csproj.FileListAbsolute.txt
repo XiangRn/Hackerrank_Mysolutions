@@ -1,7 +1,6 @@
 E:\HKrank\LongestSubarray\bin\Debug\LongestSubarray.exe.config
 E:\HKrank\LongestSubarray\bin\Debug\LongestSubarray.exe
 E:\HKrank\LongestSubarray\bin\Debug\LongestSubarray.pdb
-E:\HKrank\LongestSubarray\obj\Debug\LongestSubarray.csprojAssemblyReference.cache
 E:\HKrank\LongestSubarray\obj\Debug\LongestSubarray.csproj.CoreCompileInputs.cache
 E:\HKrank\LongestSubarray\obj\Debug\LongestSubarray.exe
 E:\HKrank\LongestSubarray\obj\Debug\LongestSubarray.pdb
