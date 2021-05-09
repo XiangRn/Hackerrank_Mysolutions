@@ -103,6 +103,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromeIndex", "..\Palin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunnyString", "..\FunnyString\FunnyString.csproj", "{C5BCA9A9-9BDC-4AA1-B3FB-586B53A8040C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JumpingontheClouds", "..\JumpingontheClouds\JumpingontheClouds.csproj", "{90A8D7C1-296F-4B20-8539-0B08FE49B5AF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -309,6 +311,10 @@ Global
 		{C5BCA9A9-9BDC-4AA1-B3FB-586B53A8040C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5BCA9A9-9BDC-4AA1-B3FB-586B53A8040C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5BCA9A9-9BDC-4AA1-B3FB-586B53A8040C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90A8D7C1-296F-4B20-8539-0B08FE49B5AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90A8D7C1-296F-4B20-8539-0B08FE49B5AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90A8D7C1-296F-4B20-8539-0B08FE49B5AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90A8D7C1-296F-4B20-8539-0B08FE49B5AF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
