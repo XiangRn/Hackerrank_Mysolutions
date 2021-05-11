@@ -1,0 +1,7 @@
+E:\HKrank\EqualizetheArray\bin\Debug\EqualizetheArray.exe.config
+E:\HKrank\EqualizetheArray\bin\Debug\EqualizetheArray.exe
+E:\HKrank\EqualizetheArray\bin\Debug\EqualizetheArray.pdb
+E:\HKrank\EqualizetheArray\obj\Debug\EqualizetheArray.csprojAssemblyReference.cache
+E:\HKrank\EqualizetheArray\obj\Debug\EqualizetheArray.csproj.CoreCompileInputs.cache
+E:\HKrank\EqualizetheArray\obj\Debug\EqualizetheArray.exe
+E:\HKrank\EqualizetheArray\obj\Debug\EqualizetheArray.pdb
