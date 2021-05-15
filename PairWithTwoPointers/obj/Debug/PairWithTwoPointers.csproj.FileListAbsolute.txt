@@ -1,0 +1,7 @@
+E:\HKrank\PairWithTwoPointers\bin\Debug\PairWithTwoPointers.exe.config
+E:\HKrank\PairWithTwoPointers\bin\Debug\PairWithTwoPointers.exe
+E:\HKrank\PairWithTwoPointers\bin\Debug\PairWithTwoPointers.pdb
+E:\HKrank\PairWithTwoPointers\obj\Debug\PairWithTwoPointers.csprojAssemblyReference.cache
+E:\HKrank\PairWithTwoPointers\obj\Debug\PairWithTwoPointers.csproj.CoreCompileInputs.cache
+E:\HKrank\PairWithTwoPointers\obj\Debug\PairWithTwoPointers.exe
+E:\HKrank\PairWithTwoPointers\obj\Debug\PairWithTwoPointers.pdb

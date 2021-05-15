@@ -1,0 +1,7 @@
+E:\HKrank\Day12Inheritance\bin\Debug\Day12Inheritance.exe.config
+E:\HKrank\Day12Inheritance\bin\Debug\Day12Inheritance.exe
+E:\HKrank\Day12Inheritance\bin\Debug\Day12Inheritance.pdb
+E:\HKrank\Day12Inheritance\obj\Debug\Day12Inheritance.csprojAssemblyReference.cache
+E:\HKrank\Day12Inheritance\obj\Debug\Day12Inheritance.csproj.CoreCompileInputs.cache
+E:\HKrank\Day12Inheritance\obj\Debug\Day12Inheritance.exe
+E:\HKrank\Day12Inheritance\obj\Debug\Day12Inheritance.pdb
