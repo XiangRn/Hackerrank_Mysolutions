@@ -9,7 +9,8 @@ namespace Day12Inheritance
     public class Student : Person
     {
         private int[] testScores;
-        public Student(string firstName, string lastName, int identification, int[] testScores) : base(firstName, lastName, identification)
+        public Student(string firstName, string lastName, int identification, int[] testScores) :
+            base(firstName, lastName, identification)
         {
             this.testScores = testScores;
         }
