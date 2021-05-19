@@ -1,0 +1,7 @@
+E:\HKrank\ArraySum\bin\Debug\ArraySum.exe.config
+E:\HKrank\ArraySum\bin\Debug\ArraySum.exe
+E:\HKrank\ArraySum\bin\Debug\ArraySum.pdb
+E:\HKrank\ArraySum\obj\Debug\ArraySum.csprojAssemblyReference.cache
+E:\HKrank\ArraySum\obj\Debug\ArraySum.csproj.CoreCompileInputs.cache
+E:\HKrank\ArraySum\obj\Debug\ArraySum.exe
+E:\HKrank\ArraySum\obj\Debug\ArraySum.pdb

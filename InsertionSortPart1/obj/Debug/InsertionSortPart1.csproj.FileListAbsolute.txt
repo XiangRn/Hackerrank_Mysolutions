@@ -1,0 +1,7 @@
+E:\HKrank\InsertionSortPart1\bin\Debug\InsertionSortPart1.exe.config
+E:\HKrank\InsertionSortPart1\bin\Debug\InsertionSortPart1.exe
+E:\HKrank\InsertionSortPart1\bin\Debug\InsertionSortPart1.pdb
+E:\HKrank\InsertionSortPart1\obj\Debug\InsertionSortPart1.csprojAssemblyReference.cache
+E:\HKrank\InsertionSortPart1\obj\Debug\InsertionSortPart1.csproj.CoreCompileInputs.cache
+E:\HKrank\InsertionSortPart1\obj\Debug\InsertionSortPart1.exe
+E:\HKrank\InsertionSortPart1\obj\Debug\InsertionSortPart1.pdb

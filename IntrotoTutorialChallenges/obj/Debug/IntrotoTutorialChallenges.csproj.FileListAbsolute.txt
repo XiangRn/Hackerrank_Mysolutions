@@ -1,0 +1,7 @@
+E:\HKrank\IntrotoTutorialChallenges\bin\Debug\IntrotoTutorialChallenges.exe.config
+E:\HKrank\IntrotoTutorialChallenges\bin\Debug\IntrotoTutorialChallenges.exe
+E:\HKrank\IntrotoTutorialChallenges\bin\Debug\IntrotoTutorialChallenges.pdb
+E:\HKrank\IntrotoTutorialChallenges\obj\Debug\IntrotoTutorialChallenges.csprojAssemblyReference.cache
+E:\HKrank\IntrotoTutorialChallenges\obj\Debug\IntrotoTutorialChallenges.csproj.CoreCompileInputs.cache
+E:\HKrank\IntrotoTutorialChallenges\obj\Debug\IntrotoTutorialChallenges.exe
+E:\HKrank\IntrotoTutorialChallenges\obj\Debug\IntrotoTutorialChallenges.pdb
