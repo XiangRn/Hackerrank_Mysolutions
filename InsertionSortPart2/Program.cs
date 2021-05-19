@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace InsertionSortPart1
+namespace InsertionSortPart2
 {
     class Program
     {
-        static void insertionSort1(int n, int[] arr)
+        static void insertionSort2(int n, int[] arr)
         {
             for (int i = 1; i < n; i++)
             {
@@ -18,18 +18,16 @@ namespace InsertionSortPart1
                 {
 
                     arr[j + 1] = arr[j];
-                    for (int k = 0; k < n; k++)
-                    {
-                        Console.Write(arr[k] + " ");
-                    }
+
                     j--;
-                    Console.Write("\n");
+
                 }
                 arr[j + 1] = temp;
-            }
-            for (int k = 0; k < n; k++)
-            {
-                Console.Write(arr[k] + " ");
+                for (int k = 0; k < n; k++)
+                {
+                    Console.Write(arr[k] + " ");
+                }
+                Console.Write("\n");
             }
 
         }
@@ -42,9 +40,8 @@ namespace InsertionSortPart1
             {
                 arr[i] = Convert.ToInt32(Console.ReadLine());
             }
-            insertionSort1(n,arr);
+            insertionSort2(n, arr);
             Console.ReadLine();
-
         }
     }
 }
