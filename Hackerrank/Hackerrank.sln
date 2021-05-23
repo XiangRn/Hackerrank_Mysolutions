@@ -121,6 +121,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertionSortPart1", "..\In
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertionSortPart2", "..\InsertionSortPart2\InsertionSortPart2.csproj", "{E0E4FD5A-FA5E-4EB1-825D-C2AF9F386806}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SherlockandtheValidString", "..\SherlockandtheValidString\SherlockandtheValidString.csproj", "{46F3FDFA-2FC6-400E-AAA1-9F6924A14293}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -363,6 +365,10 @@ Global
 		{E0E4FD5A-FA5E-4EB1-825D-C2AF9F386806}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E0E4FD5A-FA5E-4EB1-825D-C2AF9F386806}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E0E4FD5A-FA5E-4EB1-825D-C2AF9F386806}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46F3FDFA-2FC6-400E-AAA1-9F6924A14293}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46F3FDFA-2FC6-400E-AAA1-9F6924A14293}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46F3FDFA-2FC6-400E-AAA1-9F6924A14293}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46F3FDFA-2FC6-400E-AAA1-9F6924A14293}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
