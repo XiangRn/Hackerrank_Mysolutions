@@ -1,0 +1,7 @@
+E:\HKrank\HighestValuePalindrome\bin\Debug\HighestValuePalindrome.exe.config
+E:\HKrank\HighestValuePalindrome\bin\Debug\HighestValuePalindrome.exe
+E:\HKrank\HighestValuePalindrome\bin\Debug\HighestValuePalindrome.pdb
+E:\HKrank\HighestValuePalindrome\obj\Debug\HighestValuePalindrome.csprojAssemblyReference.cache
+E:\HKrank\HighestValuePalindrome\obj\Debug\HighestValuePalindrome.csproj.CoreCompileInputs.cache
+E:\HKrank\HighestValuePalindrome\obj\Debug\HighestValuePalindrome.exe
+E:\HKrank\HighestValuePalindrome\obj\Debug\HighestValuePalindrome.pdb
