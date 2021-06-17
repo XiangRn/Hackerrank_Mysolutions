@@ -1,0 +1,7 @@
+E:\HKrank\StringConstruction\bin\Debug\StringConstruction.exe.config
+E:\HKrank\StringConstruction\bin\Debug\StringConstruction.exe
+E:\HKrank\StringConstruction\bin\Debug\StringConstruction.pdb
+E:\HKrank\StringConstruction\obj\Debug\StringConstruction.csprojAssemblyReference.cache
+E:\HKrank\StringConstruction\obj\Debug\StringConstruction.csproj.CoreCompileInputs.cache
+E:\HKrank\StringConstruction\obj\Debug\StringConstruction.exe
+E:\HKrank\StringConstruction\obj\Debug\StringConstruction.pdb

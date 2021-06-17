@@ -1,0 +1,7 @@
+E:\HKrank\TheLoveLetterMystery\bin\Debug\TheLoveLetterMystery.exe.config
+E:\HKrank\TheLoveLetterMystery\bin\Debug\TheLoveLetterMystery.exe
+E:\HKrank\TheLoveLetterMystery\bin\Debug\TheLoveLetterMystery.pdb
+E:\HKrank\TheLoveLetterMystery\obj\Debug\TheLoveLetterMystery.csprojAssemblyReference.cache
+E:\HKrank\TheLoveLetterMystery\obj\Debug\TheLoveLetterMystery.csproj.CoreCompileInputs.cache
+E:\HKrank\TheLoveLetterMystery\obj\Debug\TheLoveLetterMystery.exe
+E:\HKrank\TheLoveLetterMystery\obj\Debug\TheLoveLetterMystery.pdb

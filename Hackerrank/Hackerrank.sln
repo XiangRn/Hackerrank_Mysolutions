@@ -125,6 +125,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SherlockandtheValidString",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HighestValuePalindrome", "..\HighestValuePalindrome\HighestValuePalindrome.csproj", "{14FA8764-39C2-466C-9593-5C158AAA084C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringConstruction", "..\StringConstruction\StringConstruction.csproj", "{641F781B-FF9C-4344-BF62-43D5C44C48FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheLoveLetterMystery", "..\TheLoveLetterMystery\TheLoveLetterMystery.csproj", "{70EF8BA7-7125-4652-9047-1D5BE0D0FAA9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -375,6 +379,14 @@ Global
 		{14FA8764-39C2-466C-9593-5C158AAA084C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{14FA8764-39C2-466C-9593-5C158AAA084C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{14FA8764-39C2-466C-9593-5C158AAA084C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{641F781B-FF9C-4344-BF62-43D5C44C48FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{641F781B-FF9C-4344-BF62-43D5C44C48FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{641F781B-FF9C-4344-BF62-43D5C44C48FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{641F781B-FF9C-4344-BF62-43D5C44C48FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70EF8BA7-7125-4652-9047-1D5BE0D0FAA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70EF8BA7-7125-4652-9047-1D5BE0D0FAA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70EF8BA7-7125-4652-9047-1D5BE0D0FAA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70EF8BA7-7125-4652-9047-1D5BE0D0FAA9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
