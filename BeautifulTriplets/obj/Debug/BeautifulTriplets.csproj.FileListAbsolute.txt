@@ -1,0 +1,7 @@
+E:\HKrank\BeautifulTriplets\bin\Debug\BeautifulTriplets.exe.config
+E:\HKrank\BeautifulTriplets\bin\Debug\BeautifulTriplets.exe
+E:\HKrank\BeautifulTriplets\bin\Debug\BeautifulTriplets.pdb
+E:\HKrank\BeautifulTriplets\obj\Debug\BeautifulTriplets.csprojAssemblyReference.cache
+E:\HKrank\BeautifulTriplets\obj\Debug\BeautifulTriplets.csproj.CoreCompileInputs.cache
+E:\HKrank\BeautifulTriplets\obj\Debug\BeautifulTriplets.exe
+E:\HKrank\BeautifulTriplets\obj\Debug\BeautifulTriplets.pdb

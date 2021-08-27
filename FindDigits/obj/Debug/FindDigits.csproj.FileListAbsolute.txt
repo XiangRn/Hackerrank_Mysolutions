@@ -1,0 +1,7 @@
+D:\HKrank\FindDigits\bin\Debug\FindDigits.exe.config
+D:\HKrank\FindDigits\bin\Debug\FindDigits.exe
+D:\HKrank\FindDigits\bin\Debug\FindDigits.pdb
+D:\HKrank\FindDigits\obj\Debug\FindDigits.csprojAssemblyReference.cache
+D:\HKrank\FindDigits\obj\Debug\FindDigits.csproj.CoreCompileInputs.cache
+D:\HKrank\FindDigits\obj\Debug\FindDigits.exe
+D:\HKrank\FindDigits\obj\Debug\FindDigits.pdb

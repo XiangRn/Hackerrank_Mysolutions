@@ -1,0 +1,7 @@
+D:\HKrank\ManasaandStones\bin\Debug\ManasaandStones.exe.config
+D:\HKrank\ManasaandStones\bin\Debug\ManasaandStones.exe
+D:\HKrank\ManasaandStones\bin\Debug\ManasaandStones.pdb
+D:\HKrank\ManasaandStones\obj\Debug\ManasaandStones.csproj.CoreCompileInputs.cache
+D:\HKrank\ManasaandStones\obj\Debug\ManasaandStones.exe
+D:\HKrank\ManasaandStones\obj\Debug\ManasaandStones.pdb
+D:\HKrank\ManasaandStones\obj\Debug\ManasaandStones.csproj.AssemblyReference.cache

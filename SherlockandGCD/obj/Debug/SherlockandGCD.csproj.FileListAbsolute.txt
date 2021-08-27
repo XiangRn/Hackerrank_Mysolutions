@@ -1,0 +1,7 @@
+D:\HKrank\SherlockandGCD\bin\Debug\SherlockandGCD.exe.config
+D:\HKrank\SherlockandGCD\bin\Debug\SherlockandGCD.exe
+D:\HKrank\SherlockandGCD\bin\Debug\SherlockandGCD.pdb
+D:\HKrank\SherlockandGCD\obj\Debug\SherlockandGCD.csproj.AssemblyReference.cache
+D:\HKrank\SherlockandGCD\obj\Debug\SherlockandGCD.csproj.CoreCompileInputs.cache
+D:\HKrank\SherlockandGCD\obj\Debug\SherlockandGCD.exe
+D:\HKrank\SherlockandGCD\obj\Debug\SherlockandGCD.pdb

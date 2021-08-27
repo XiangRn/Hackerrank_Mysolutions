@@ -1,0 +1,7 @@
+D:\HKrank\ClosestNumber\bin\Debug\ClosestNumber.exe.config
+D:\HKrank\ClosestNumber\bin\Debug\ClosestNumber.exe
+D:\HKrank\ClosestNumber\bin\Debug\ClosestNumber.pdb
+D:\HKrank\ClosestNumber\obj\Debug\ClosestNumber.csproj.AssemblyReference.cache
+D:\HKrank\ClosestNumber\obj\Debug\ClosestNumber.csproj.CoreCompileInputs.cache
+D:\HKrank\ClosestNumber\obj\Debug\ClosestNumber.exe
+D:\HKrank\ClosestNumber\obj\Debug\ClosestNumber.pdb

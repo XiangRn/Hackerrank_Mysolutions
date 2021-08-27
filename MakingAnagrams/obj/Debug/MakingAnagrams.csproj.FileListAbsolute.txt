@@ -1,0 +1,7 @@
+E:\HKrank\MakingAnagrams\bin\Debug\MakingAnagrams.exe.config
+E:\HKrank\MakingAnagrams\bin\Debug\MakingAnagrams.exe
+E:\HKrank\MakingAnagrams\bin\Debug\MakingAnagrams.pdb
+E:\HKrank\MakingAnagrams\obj\Debug\MakingAnagrams.csprojAssemblyReference.cache
+E:\HKrank\MakingAnagrams\obj\Debug\MakingAnagrams.csproj.CoreCompileInputs.cache
+E:\HKrank\MakingAnagrams\obj\Debug\MakingAnagrams.exe
+E:\HKrank\MakingAnagrams\obj\Debug\MakingAnagrams.pdb

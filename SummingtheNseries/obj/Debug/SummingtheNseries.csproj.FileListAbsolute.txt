@@ -1,0 +1,7 @@
+D:\HKrank\SummingtheNseries\bin\Debug\SummingtheNseries.exe.config
+D:\HKrank\SummingtheNseries\bin\Debug\SummingtheNseries.exe
+D:\HKrank\SummingtheNseries\bin\Debug\SummingtheNseries.pdb
+D:\HKrank\SummingtheNseries\obj\Debug\SummingtheNseries.csproj.AssemblyReference.cache
+D:\HKrank\SummingtheNseries\obj\Debug\SummingtheNseries.csproj.CoreCompileInputs.cache
+D:\HKrank\SummingtheNseries\obj\Debug\SummingtheNseries.exe
+D:\HKrank\SummingtheNseries\obj\Debug\SummingtheNseries.pdb

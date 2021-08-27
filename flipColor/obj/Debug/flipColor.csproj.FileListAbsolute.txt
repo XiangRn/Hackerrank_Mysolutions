@@ -1,0 +1,7 @@
+E:\HKrank\flipColor\bin\Debug\flipColor.exe.config
+E:\HKrank\flipColor\bin\Debug\flipColor.exe
+E:\HKrank\flipColor\bin\Debug\flipColor.pdb
+E:\HKrank\flipColor\obj\Debug\flipColor.csprojAssemblyReference.cache
+E:\HKrank\flipColor\obj\Debug\flipColor.csproj.CoreCompileInputs.cache
+E:\HKrank\flipColor\obj\Debug\flipColor.exe
+E:\HKrank\flipColor\obj\Debug\flipColor.pdb
