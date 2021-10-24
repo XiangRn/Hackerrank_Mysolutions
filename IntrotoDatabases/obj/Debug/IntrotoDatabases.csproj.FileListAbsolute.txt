@@ -4,3 +4,9 @@ E:\HKrank\IntrotoDatabases\bin\Debug\IntrotoDatabases.pdb
 E:\HKrank\IntrotoDatabases\obj\Debug\IntrotoDatabases.csproj.CoreCompileInputs.cache
 E:\HKrank\IntrotoDatabases\obj\Debug\IntrotoDatabases.exe
 E:\HKrank\IntrotoDatabases\obj\Debug\IntrotoDatabases.pdb
+D:\HKrank\IntrotoDatabases\bin\Debug\IntrotoDatabases.exe.config
+D:\HKrank\IntrotoDatabases\bin\Debug\IntrotoDatabases.exe
+D:\HKrank\IntrotoDatabases\bin\Debug\IntrotoDatabases.pdb
+D:\HKrank\IntrotoDatabases\obj\Debug\IntrotoDatabases.csproj.CoreCompileInputs.cache
+D:\HKrank\IntrotoDatabases\obj\Debug\IntrotoDatabases.exe
+D:\HKrank\IntrotoDatabases\obj\Debug\IntrotoDatabases.pdb

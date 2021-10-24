@@ -5,3 +5,9 @@ E:\HKrank\EqualizetheArray\obj\Debug\EqualizetheArray.csprojAssemblyReference.ca
 E:\HKrank\EqualizetheArray\obj\Debug\EqualizetheArray.csproj.CoreCompileInputs.cache
 E:\HKrank\EqualizetheArray\obj\Debug\EqualizetheArray.exe
 E:\HKrank\EqualizetheArray\obj\Debug\EqualizetheArray.pdb
+D:\HKrank\EqualizetheArray\bin\Debug\EqualizetheArray.exe.config
+D:\HKrank\EqualizetheArray\bin\Debug\EqualizetheArray.exe
+D:\HKrank\EqualizetheArray\bin\Debug\EqualizetheArray.pdb
+D:\HKrank\EqualizetheArray\obj\Debug\EqualizetheArray.csproj.CoreCompileInputs.cache
+D:\HKrank\EqualizetheArray\obj\Debug\EqualizetheArray.exe
+D:\HKrank\EqualizetheArray\obj\Debug\EqualizetheArray.pdb

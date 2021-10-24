@@ -11,3 +11,9 @@ E:\HKrank\Day8HackerankDictionariesMap\bin\Debug\Day8HackerankDictionariesMap.pd
 E:\HKrank\Day8HackerankDictionariesMap\obj\Debug\Day8HackerankDictionariesMap.csproj.CoreCompileInputs.cache
 E:\HKrank\Day8HackerankDictionariesMap\obj\Debug\Day8HackerankDictionariesMap.exe
 E:\HKrank\Day8HackerankDictionariesMap\obj\Debug\Day8HackerankDictionariesMap.pdb
+D:\HKrank\Day8HackerankDictionariesMap\bin\Debug\Day8HackerankDictionariesMap.exe.config
+D:\HKrank\Day8HackerankDictionariesMap\bin\Debug\Day8HackerankDictionariesMap.exe
+D:\HKrank\Day8HackerankDictionariesMap\bin\Debug\Day8HackerankDictionariesMap.pdb
+D:\HKrank\Day8HackerankDictionariesMap\obj\Debug\Day8HackerankDictionariesMap.csproj.CoreCompileInputs.cache
+D:\HKrank\Day8HackerankDictionariesMap\obj\Debug\Day8HackerankDictionariesMap.exe
+D:\HKrank\Day8HackerankDictionariesMap\obj\Debug\Day8HackerankDictionariesMap.pdb

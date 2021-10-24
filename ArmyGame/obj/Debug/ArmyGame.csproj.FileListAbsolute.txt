@@ -4,3 +4,9 @@ E:\HKrank\ArmyGame\bin\Debug\ArmyGame.pdb
 E:\HKrank\ArmyGame\obj\Debug\ArmyGame.csproj.CoreCompileInputs.cache
 E:\HKrank\ArmyGame\obj\Debug\ArmyGame.exe
 E:\HKrank\ArmyGame\obj\Debug\ArmyGame.pdb
+D:\HKrank\ArmyGame\bin\Debug\ArmyGame.exe.config
+D:\HKrank\ArmyGame\bin\Debug\ArmyGame.exe
+D:\HKrank\ArmyGame\bin\Debug\ArmyGame.pdb
+D:\HKrank\ArmyGame\obj\Debug\ArmyGame.csproj.CoreCompileInputs.cache
+D:\HKrank\ArmyGame\obj\Debug\ArmyGame.exe
+D:\HKrank\ArmyGame\obj\Debug\ArmyGame.pdb

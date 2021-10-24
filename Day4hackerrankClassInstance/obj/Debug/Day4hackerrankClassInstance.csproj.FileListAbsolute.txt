@@ -12,3 +12,10 @@ E:\HKrank\Day4hackerrankClassInstance\obj\Debug\Day4hackerrankClassInstance.cspr
 E:\HKrank\Day4hackerrankClassInstance\obj\Debug\Day4hackerrankClassInstance.csproj.CoreCompileInputs.cache
 E:\HKrank\Day4hackerrankClassInstance\obj\Debug\Day4hackerrankClassInstance.exe
 E:\HKrank\Day4hackerrankClassInstance\obj\Debug\Day4hackerrankClassInstance.pdb
+D:\HKrank\Day4hackerrankClassInstance\bin\Debug\Day4hackerrankClassInstance.exe.config
+D:\HKrank\Day4hackerrankClassInstance\bin\Debug\Day4hackerrankClassInstance.exe
+D:\HKrank\Day4hackerrankClassInstance\bin\Debug\Day4hackerrankClassInstance.pdb
+D:\HKrank\Day4hackerrankClassInstance\obj\Debug\Day4hackerrankClassInstance.csproj.AssemblyReference.cache
+D:\HKrank\Day4hackerrankClassInstance\obj\Debug\Day4hackerrankClassInstance.csproj.CoreCompileInputs.cache
+D:\HKrank\Day4hackerrankClassInstance\obj\Debug\Day4hackerrankClassInstance.exe
+D:\HKrank\Day4hackerrankClassInstance\obj\Debug\Day4hackerrankClassInstance.pdb

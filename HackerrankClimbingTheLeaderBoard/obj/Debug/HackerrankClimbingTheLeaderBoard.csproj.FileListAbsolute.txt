@@ -11,3 +11,9 @@ E:\HKrank\HackerrankClimbingTheLeaderBoard\bin\Debug\HackerrankClimbingTheLeader
 E:\HKrank\HackerrankClimbingTheLeaderBoard\obj\Debug\HackerrankClimbingTheLeaderBoard.csproj.CoreCompileInputs.cache
 E:\HKrank\HackerrankClimbingTheLeaderBoard\obj\Debug\HackerrankClimbingTheLeaderBoard.exe
 E:\HKrank\HackerrankClimbingTheLeaderBoard\obj\Debug\HackerrankClimbingTheLeaderBoard.pdb
+D:\HKrank\HackerrankClimbingTheLeaderBoard\bin\Debug\HackerrankClimbingTheLeaderBoard.exe.config
+D:\HKrank\HackerrankClimbingTheLeaderBoard\bin\Debug\HackerrankClimbingTheLeaderBoard.exe
+D:\HKrank\HackerrankClimbingTheLeaderBoard\bin\Debug\HackerrankClimbingTheLeaderBoard.pdb
+D:\HKrank\HackerrankClimbingTheLeaderBoard\obj\Debug\HackerrankClimbingTheLeaderBoard.csproj.CoreCompileInputs.cache
+D:\HKrank\HackerrankClimbingTheLeaderBoard\obj\Debug\HackerrankClimbingTheLeaderBoard.exe
+D:\HKrank\HackerrankClimbingTheLeaderBoard\obj\Debug\HackerrankClimbingTheLeaderBoard.pdb

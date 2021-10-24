@@ -4,3 +4,9 @@ E:\HKrank\MaximumDraws\bin\Debug\MaximumDraws.pdb
 E:\HKrank\MaximumDraws\obj\Debug\MaximumDraws.csproj.CoreCompileInputs.cache
 E:\HKrank\MaximumDraws\obj\Debug\MaximumDraws.exe
 E:\HKrank\MaximumDraws\obj\Debug\MaximumDraws.pdb
+D:\HKrank\MaximumDraws\bin\Debug\MaximumDraws.exe.config
+D:\HKrank\MaximumDraws\bin\Debug\MaximumDraws.exe
+D:\HKrank\MaximumDraws\bin\Debug\MaximumDraws.pdb
+D:\HKrank\MaximumDraws\obj\Debug\MaximumDraws.csproj.CoreCompileInputs.cache
+D:\HKrank\MaximumDraws\obj\Debug\MaximumDraws.exe
+D:\HKrank\MaximumDraws\obj\Debug\MaximumDraws.pdb

@@ -5,3 +5,9 @@ E:\HKrank\RepeatedString\obj\Debug\RepeatedString.csprojAssemblyReference.cache
 E:\HKrank\RepeatedString\obj\Debug\RepeatedString.csproj.CoreCompileInputs.cache
 E:\HKrank\RepeatedString\obj\Debug\RepeatedString.exe
 E:\HKrank\RepeatedString\obj\Debug\RepeatedString.pdb
+D:\HKrank\RepeatedString\bin\Debug\RepeatedString.exe.config
+D:\HKrank\RepeatedString\bin\Debug\RepeatedString.exe
+D:\HKrank\RepeatedString\bin\Debug\RepeatedString.pdb
+D:\HKrank\RepeatedString\obj\Debug\RepeatedString.csproj.CoreCompileInputs.cache
+D:\HKrank\RepeatedString\obj\Debug\RepeatedString.exe
+D:\HKrank\RepeatedString\obj\Debug\RepeatedString.pdb

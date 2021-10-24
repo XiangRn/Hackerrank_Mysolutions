@@ -11,3 +11,9 @@ E:\HKrank\Day7hackerankArrays\obj\Debug\Day7hackerankArrays.csproj.CoreCompileIn
 E:\HKrank\Day7hackerankArrays\obj\Debug\Day7hackerankArrays.exe
 E:\HKrank\Day7hackerankArrays\obj\Debug\Day7hackerankArrays.pdb
 E:\HKrank\Day7hackerankArrays\obj\Debug\Day7hackerankArrays.csprojAssemblyReference.cache
+D:\HKrank\Day7hackerankArrays\bin\Debug\Day7hackerankArrays.exe.config
+D:\HKrank\Day7hackerankArrays\bin\Debug\Day7hackerankArrays.exe
+D:\HKrank\Day7hackerankArrays\bin\Debug\Day7hackerankArrays.pdb
+D:\HKrank\Day7hackerankArrays\obj\Debug\Day7hackerankArrays.csproj.CoreCompileInputs.cache
+D:\HKrank\Day7hackerankArrays\obj\Debug\Day7hackerankArrays.exe
+D:\HKrank\Day7hackerankArrays\obj\Debug\Day7hackerankArrays.pdb

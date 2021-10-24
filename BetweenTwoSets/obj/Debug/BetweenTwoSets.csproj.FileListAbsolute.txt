@@ -4,3 +4,9 @@ E:\HKrank\BetweenTwoSets\bin\Debug\BetweenTwoSets.pdb
 E:\HKrank\BetweenTwoSets\obj\Debug\BetweenTwoSets.csproj.CoreCompileInputs.cache
 E:\HKrank\BetweenTwoSets\obj\Debug\BetweenTwoSets.exe
 E:\HKrank\BetweenTwoSets\obj\Debug\BetweenTwoSets.pdb
+D:\HKrank\BetweenTwoSets\bin\Debug\BetweenTwoSets.exe.config
+D:\HKrank\BetweenTwoSets\bin\Debug\BetweenTwoSets.exe
+D:\HKrank\BetweenTwoSets\bin\Debug\BetweenTwoSets.pdb
+D:\HKrank\BetweenTwoSets\obj\Debug\BetweenTwoSets.csproj.CoreCompileInputs.cache
+D:\HKrank\BetweenTwoSets\obj\Debug\BetweenTwoSets.exe
+D:\HKrank\BetweenTwoSets\obj\Debug\BetweenTwoSets.pdb

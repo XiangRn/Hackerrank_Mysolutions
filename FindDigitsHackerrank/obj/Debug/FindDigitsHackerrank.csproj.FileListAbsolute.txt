@@ -11,3 +11,9 @@ E:\HKrank\FindDigitsHackerrank\bin\Debug\FindDigitsHackerrank.pdb
 E:\HKrank\FindDigitsHackerrank\obj\Debug\FindDigitsHackerrank.csproj.CoreCompileInputs.cache
 E:\HKrank\FindDigitsHackerrank\obj\Debug\FindDigitsHackerrank.exe
 E:\HKrank\FindDigitsHackerrank\obj\Debug\FindDigitsHackerrank.pdb
+D:\HKrank\FindDigitsHackerrank\bin\Debug\FindDigitsHackerrank.exe.config
+D:\HKrank\FindDigitsHackerrank\bin\Debug\FindDigitsHackerrank.exe
+D:\HKrank\FindDigitsHackerrank\bin\Debug\FindDigitsHackerrank.pdb
+D:\HKrank\FindDigitsHackerrank\obj\Debug\FindDigitsHackerrank.csproj.CoreCompileInputs.cache
+D:\HKrank\FindDigitsHackerrank\obj\Debug\FindDigitsHackerrank.exe
+D:\HKrank\FindDigitsHackerrank\obj\Debug\FindDigitsHackerrank.pdb

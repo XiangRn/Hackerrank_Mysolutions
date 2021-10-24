@@ -5,3 +5,10 @@ E:\HKrank\ExtraLongFactorials\obj\Debug\ExtraLongFactorials.csprojAssemblyRefere
 E:\HKrank\ExtraLongFactorials\obj\Debug\ExtraLongFactorials.csproj.CoreCompileInputs.cache
 E:\HKrank\ExtraLongFactorials\obj\Debug\ExtraLongFactorials.exe
 E:\HKrank\ExtraLongFactorials\obj\Debug\ExtraLongFactorials.pdb
+D:\HKrank\ExtraLongFactorials\bin\Debug\ExtraLongFactorials.exe.config
+D:\HKrank\ExtraLongFactorials\bin\Debug\ExtraLongFactorials.exe
+D:\HKrank\ExtraLongFactorials\bin\Debug\ExtraLongFactorials.pdb
+D:\HKrank\ExtraLongFactorials\obj\Debug\ExtraLongFactorials.csproj.AssemblyReference.cache
+D:\HKrank\ExtraLongFactorials\obj\Debug\ExtraLongFactorials.csproj.CoreCompileInputs.cache
+D:\HKrank\ExtraLongFactorials\obj\Debug\ExtraLongFactorials.exe
+D:\HKrank\ExtraLongFactorials\obj\Debug\ExtraLongFactorials.pdb

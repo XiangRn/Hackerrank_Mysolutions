@@ -4,3 +4,9 @@ E:\HKrank\ReverseGame\bin\Debug\ReverseGame.pdb
 E:\HKrank\ReverseGame\obj\Debug\ReverseGame.csproj.CoreCompileInputs.cache
 E:\HKrank\ReverseGame\obj\Debug\ReverseGame.exe
 E:\HKrank\ReverseGame\obj\Debug\ReverseGame.pdb
+D:\HKrank\ReverseGame\bin\Debug\ReverseGame.exe.config
+D:\HKrank\ReverseGame\bin\Debug\ReverseGame.exe
+D:\HKrank\ReverseGame\bin\Debug\ReverseGame.pdb
+D:\HKrank\ReverseGame\obj\Debug\ReverseGame.csproj.CoreCompileInputs.cache
+D:\HKrank\ReverseGame\obj\Debug\ReverseGame.exe
+D:\HKrank\ReverseGame\obj\Debug\ReverseGame.pdb

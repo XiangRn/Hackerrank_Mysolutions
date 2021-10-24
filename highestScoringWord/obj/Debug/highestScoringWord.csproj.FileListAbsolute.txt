@@ -5,3 +5,9 @@ E:\HKrank\highestScoringWord\obj\Debug\highestScoringWord.csprojAssemblyReferenc
 E:\HKrank\highestScoringWord\obj\Debug\highestScoringWord.csproj.CoreCompileInputs.cache
 E:\HKrank\highestScoringWord\obj\Debug\highestScoringWord.exe
 E:\HKrank\highestScoringWord\obj\Debug\highestScoringWord.pdb
+D:\HKrank\highestScoringWord\bin\Debug\highestScoringWord.exe.config
+D:\HKrank\highestScoringWord\bin\Debug\highestScoringWord.exe
+D:\HKrank\highestScoringWord\bin\Debug\highestScoringWord.pdb
+D:\HKrank\highestScoringWord\obj\Debug\highestScoringWord.csproj.CoreCompileInputs.cache
+D:\HKrank\highestScoringWord\obj\Debug\highestScoringWord.exe
+D:\HKrank\highestScoringWord\obj\Debug\highestScoringWord.pdb

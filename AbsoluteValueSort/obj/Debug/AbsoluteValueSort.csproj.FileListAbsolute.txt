@@ -4,3 +4,9 @@ E:\HKrank\AbsoluteValueSort\bin\Debug\AbsoluteValueSort.pdb
 E:\HKrank\AbsoluteValueSort\obj\Debug\AbsoluteValueSort.csproj.CoreCompileInputs.cache
 E:\HKrank\AbsoluteValueSort\obj\Debug\AbsoluteValueSort.exe
 E:\HKrank\AbsoluteValueSort\obj\Debug\AbsoluteValueSort.pdb
+D:\HKrank\AbsoluteValueSort\bin\Debug\AbsoluteValueSort.exe.config
+D:\HKrank\AbsoluteValueSort\bin\Debug\AbsoluteValueSort.exe
+D:\HKrank\AbsoluteValueSort\bin\Debug\AbsoluteValueSort.pdb
+D:\HKrank\AbsoluteValueSort\obj\Debug\AbsoluteValueSort.csproj.CoreCompileInputs.cache
+D:\HKrank\AbsoluteValueSort\obj\Debug\AbsoluteValueSort.exe
+D:\HKrank\AbsoluteValueSort\obj\Debug\AbsoluteValueSort.pdb

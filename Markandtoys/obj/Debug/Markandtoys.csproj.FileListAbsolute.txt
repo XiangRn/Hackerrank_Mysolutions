@@ -11,3 +11,9 @@ E:\HKrank\Markandtoys\bin\Debug\Markandtoys.pdb
 E:\HKrank\Markandtoys\obj\Debug\Markandtoys.csproj.CoreCompileInputs.cache
 E:\HKrank\Markandtoys\obj\Debug\Markandtoys.exe
 E:\HKrank\Markandtoys\obj\Debug\Markandtoys.pdb
+D:\HKrank\Markandtoys\bin\Debug\Markandtoys.exe.config
+D:\HKrank\Markandtoys\bin\Debug\Markandtoys.exe
+D:\HKrank\Markandtoys\bin\Debug\Markandtoys.pdb
+D:\HKrank\Markandtoys\obj\Debug\Markandtoys.csproj.CoreCompileInputs.cache
+D:\HKrank\Markandtoys\obj\Debug\Markandtoys.exe
+D:\HKrank\Markandtoys\obj\Debug\Markandtoys.pdb

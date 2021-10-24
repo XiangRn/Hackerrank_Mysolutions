@@ -4,3 +4,9 @@ E:\HKrank\CamelCase\bin\Debug\CamelCase.pdb
 E:\HKrank\CamelCase\obj\Debug\CamelCase.csproj.CoreCompileInputs.cache
 E:\HKrank\CamelCase\obj\Debug\CamelCase.exe
 E:\HKrank\CamelCase\obj\Debug\CamelCase.pdb
+D:\HKrank\CamelCase\bin\Debug\CamelCase.exe.config
+D:\HKrank\CamelCase\bin\Debug\CamelCase.exe
+D:\HKrank\CamelCase\bin\Debug\CamelCase.pdb
+D:\HKrank\CamelCase\obj\Debug\CamelCase.csproj.CoreCompileInputs.cache
+D:\HKrank\CamelCase\obj\Debug\CamelCase.exe
+D:\HKrank\CamelCase\obj\Debug\CamelCase.pdb

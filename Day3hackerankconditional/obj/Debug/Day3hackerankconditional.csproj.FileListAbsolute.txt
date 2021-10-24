@@ -9,3 +9,10 @@ E:\HKrank\Day3hackerankconditional\bin\Debug\Day3hackerankconditional.pdb
 E:\HKrank\Day3hackerankconditional\obj\Debug\Day3hackerankconditional.csproj.CoreCompileInputs.cache
 E:\HKrank\Day3hackerankconditional\obj\Debug\Day3hackerankconditional.exe
 E:\HKrank\Day3hackerankconditional\obj\Debug\Day3hackerankconditional.pdb
+D:\HKrank\Day3hackerankconditional\bin\Debug\Day3hackerankconditional.exe.config
+D:\HKrank\Day3hackerankconditional\bin\Debug\Day3hackerankconditional.exe
+D:\HKrank\Day3hackerankconditional\bin\Debug\Day3hackerankconditional.pdb
+D:\HKrank\Day3hackerankconditional\obj\Debug\Day3hackerankconditional.csproj.AssemblyReference.cache
+D:\HKrank\Day3hackerankconditional\obj\Debug\Day3hackerankconditional.csproj.CoreCompileInputs.cache
+D:\HKrank\Day3hackerankconditional\obj\Debug\Day3hackerankconditional.exe
+D:\HKrank\Day3hackerankconditional\obj\Debug\Day3hackerankconditional.pdb

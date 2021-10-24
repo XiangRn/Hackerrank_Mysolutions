@@ -5,3 +5,9 @@ E:\HKrank\isPowerOfFour\obj\Debug\isPowerOfFour.csprojAssemblyReference.cache
 E:\HKrank\isPowerOfFour\obj\Debug\isPowerOfFour.csproj.CoreCompileInputs.cache
 E:\HKrank\isPowerOfFour\obj\Debug\isPowerOfFour.exe
 E:\HKrank\isPowerOfFour\obj\Debug\isPowerOfFour.pdb
+D:\HKrank\isPowerOfFour\bin\Debug\isPowerOfFour.exe.config
+D:\HKrank\isPowerOfFour\bin\Debug\isPowerOfFour.exe
+D:\HKrank\isPowerOfFour\bin\Debug\isPowerOfFour.pdb
+D:\HKrank\isPowerOfFour\obj\Debug\isPowerOfFour.csproj.CoreCompileInputs.cache
+D:\HKrank\isPowerOfFour\obj\Debug\isPowerOfFour.exe
+D:\HKrank\isPowerOfFour\obj\Debug\isPowerOfFour.pdb

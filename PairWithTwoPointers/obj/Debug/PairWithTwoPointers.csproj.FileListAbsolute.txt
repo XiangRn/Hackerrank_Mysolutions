@@ -5,3 +5,9 @@ E:\HKrank\PairWithTwoPointers\obj\Debug\PairWithTwoPointers.csprojAssemblyRefere
 E:\HKrank\PairWithTwoPointers\obj\Debug\PairWithTwoPointers.csproj.CoreCompileInputs.cache
 E:\HKrank\PairWithTwoPointers\obj\Debug\PairWithTwoPointers.exe
 E:\HKrank\PairWithTwoPointers\obj\Debug\PairWithTwoPointers.pdb
+D:\HKrank\PairWithTwoPointers\bin\Debug\PairWithTwoPointers.exe.config
+D:\HKrank\PairWithTwoPointers\bin\Debug\PairWithTwoPointers.exe
+D:\HKrank\PairWithTwoPointers\bin\Debug\PairWithTwoPointers.pdb
+D:\HKrank\PairWithTwoPointers\obj\Debug\PairWithTwoPointers.csproj.CoreCompileInputs.cache
+D:\HKrank\PairWithTwoPointers\obj\Debug\PairWithTwoPointers.exe
+D:\HKrank\PairWithTwoPointers\obj\Debug\PairWithTwoPointers.pdb

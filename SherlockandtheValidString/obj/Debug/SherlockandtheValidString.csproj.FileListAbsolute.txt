@@ -5,3 +5,9 @@ E:\HKrank\SherlockandtheValidString\obj\Debug\SherlockandtheValidString.csprojAs
 E:\HKrank\SherlockandtheValidString\obj\Debug\SherlockandtheValidString.csproj.CoreCompileInputs.cache
 E:\HKrank\SherlockandtheValidString\obj\Debug\SherlockandtheValidString.exe
 E:\HKrank\SherlockandtheValidString\obj\Debug\SherlockandtheValidString.pdb
+D:\HKrank\SherlockandtheValidString\bin\Debug\SherlockandtheValidString.exe.config
+D:\HKrank\SherlockandtheValidString\bin\Debug\SherlockandtheValidString.exe
+D:\HKrank\SherlockandtheValidString\bin\Debug\SherlockandtheValidString.pdb
+D:\HKrank\SherlockandtheValidString\obj\Debug\SherlockandtheValidString.csproj.CoreCompileInputs.cache
+D:\HKrank\SherlockandtheValidString\obj\Debug\SherlockandtheValidString.exe
+D:\HKrank\SherlockandtheValidString\obj\Debug\SherlockandtheValidString.pdb

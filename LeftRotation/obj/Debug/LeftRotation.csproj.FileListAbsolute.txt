@@ -1,0 +1,7 @@
+D:\HKrank\LeftRotation\bin\Debug\LeftRotation.exe.config
+D:\HKrank\LeftRotation\bin\Debug\LeftRotation.exe
+D:\HKrank\LeftRotation\bin\Debug\LeftRotation.pdb
+D:\HKrank\LeftRotation\obj\Debug\LeftRotation.csproj.AssemblyReference.cache
+D:\HKrank\LeftRotation\obj\Debug\LeftRotation.csproj.CoreCompileInputs.cache
+D:\HKrank\LeftRotation\obj\Debug\LeftRotation.exe
+D:\HKrank\LeftRotation\obj\Debug\LeftRotation.pdb

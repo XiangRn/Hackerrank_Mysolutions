@@ -5,3 +5,9 @@ E:\HKrank\MakingAnagrams\obj\Debug\MakingAnagrams.csprojAssemblyReference.cache
 E:\HKrank\MakingAnagrams\obj\Debug\MakingAnagrams.csproj.CoreCompileInputs.cache
 E:\HKrank\MakingAnagrams\obj\Debug\MakingAnagrams.exe
 E:\HKrank\MakingAnagrams\obj\Debug\MakingAnagrams.pdb
+D:\HKrank\MakingAnagrams\bin\Debug\MakingAnagrams.exe.config
+D:\HKrank\MakingAnagrams\bin\Debug\MakingAnagrams.exe
+D:\HKrank\MakingAnagrams\bin\Debug\MakingAnagrams.pdb
+D:\HKrank\MakingAnagrams\obj\Debug\MakingAnagrams.csproj.CoreCompileInputs.cache
+D:\HKrank\MakingAnagrams\obj\Debug\MakingAnagrams.exe
+D:\HKrank\MakingAnagrams\obj\Debug\MakingAnagrams.pdb

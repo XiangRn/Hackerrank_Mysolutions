@@ -4,3 +4,9 @@ E:\HKrank\Restaurant\bin\Debug\Restaurant.pdb
 E:\HKrank\Restaurant\obj\Debug\Restaurant.csproj.CoreCompileInputs.cache
 E:\HKrank\Restaurant\obj\Debug\Restaurant.exe
 E:\HKrank\Restaurant\obj\Debug\Restaurant.pdb
+D:\HKrank\Restaurant\bin\Debug\Restaurant.exe.config
+D:\HKrank\Restaurant\bin\Debug\Restaurant.exe
+D:\HKrank\Restaurant\bin\Debug\Restaurant.pdb
+D:\HKrank\Restaurant\obj\Debug\Restaurant.csproj.CoreCompileInputs.cache
+D:\HKrank\Restaurant\obj\Debug\Restaurant.exe
+D:\HKrank\Restaurant\obj\Debug\Restaurant.pdb

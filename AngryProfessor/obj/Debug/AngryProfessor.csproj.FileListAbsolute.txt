@@ -1,0 +1,7 @@
+D:\HKrank\AngryProfessor\bin\Debug\AngryProfessor.exe.config
+D:\HKrank\AngryProfessor\bin\Debug\AngryProfessor.exe
+D:\HKrank\AngryProfessor\bin\Debug\AngryProfessor.pdb
+D:\HKrank\AngryProfessor\obj\Debug\AngryProfessor.csproj.AssemblyReference.cache
+D:\HKrank\AngryProfessor\obj\Debug\AngryProfessor.csproj.CoreCompileInputs.cache
+D:\HKrank\AngryProfessor\obj\Debug\AngryProfessor.exe
+D:\HKrank\AngryProfessor\obj\Debug\AngryProfessor.pdb

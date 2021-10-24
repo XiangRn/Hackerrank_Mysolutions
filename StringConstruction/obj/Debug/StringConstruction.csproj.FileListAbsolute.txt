@@ -5,3 +5,9 @@ E:\HKrank\StringConstruction\obj\Debug\StringConstruction.csprojAssemblyReferenc
 E:\HKrank\StringConstruction\obj\Debug\StringConstruction.csproj.CoreCompileInputs.cache
 E:\HKrank\StringConstruction\obj\Debug\StringConstruction.exe
 E:\HKrank\StringConstruction\obj\Debug\StringConstruction.pdb
+D:\HKrank\StringConstruction\bin\Debug\StringConstruction.exe.config
+D:\HKrank\StringConstruction\bin\Debug\StringConstruction.exe
+D:\HKrank\StringConstruction\bin\Debug\StringConstruction.pdb
+D:\HKrank\StringConstruction\obj\Debug\StringConstruction.csproj.CoreCompileInputs.cache
+D:\HKrank\StringConstruction\obj\Debug\StringConstruction.exe
+D:\HKrank\StringConstruction\obj\Debug\StringConstruction.pdb

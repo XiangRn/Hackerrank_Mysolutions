@@ -4,3 +4,9 @@ E:\HKrank\DivisibleSumPairs\bin\Debug\DivisibleSumPairs.pdb
 E:\HKrank\DivisibleSumPairs\obj\Debug\DivisibleSumPairs.csproj.CoreCompileInputs.cache
 E:\HKrank\DivisibleSumPairs\obj\Debug\DivisibleSumPairs.exe
 E:\HKrank\DivisibleSumPairs\obj\Debug\DivisibleSumPairs.pdb
+D:\HKrank\DivisibleSumPairs\bin\Debug\DivisibleSumPairs.exe.config
+D:\HKrank\DivisibleSumPairs\bin\Debug\DivisibleSumPairs.exe
+D:\HKrank\DivisibleSumPairs\bin\Debug\DivisibleSumPairs.pdb
+D:\HKrank\DivisibleSumPairs\obj\Debug\DivisibleSumPairs.csproj.CoreCompileInputs.cache
+D:\HKrank\DivisibleSumPairs\obj\Debug\DivisibleSumPairs.exe
+D:\HKrank\DivisibleSumPairs\obj\Debug\DivisibleSumPairs.pdb

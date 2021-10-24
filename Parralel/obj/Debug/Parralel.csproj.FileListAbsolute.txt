@@ -4,3 +4,9 @@ E:\HKrank\Parralel\bin\Debug\Parralel.pdb
 E:\HKrank\Parralel\obj\Debug\Parralel.csproj.CoreCompileInputs.cache
 E:\HKrank\Parralel\obj\Debug\Parralel.exe
 E:\HKrank\Parralel\obj\Debug\Parralel.pdb
+D:\HKrank\Parralel\bin\Debug\Parralel.exe.config
+D:\HKrank\Parralel\bin\Debug\Parralel.exe
+D:\HKrank\Parralel\bin\Debug\Parralel.pdb
+D:\HKrank\Parralel\obj\Debug\Parralel.csproj.CoreCompileInputs.cache
+D:\HKrank\Parralel\obj\Debug\Parralel.exe
+D:\HKrank\Parralel\obj\Debug\Parralel.pdb

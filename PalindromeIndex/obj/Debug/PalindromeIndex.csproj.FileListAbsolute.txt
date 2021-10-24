@@ -5,3 +5,9 @@ E:\HKrank\PalindromeIndex\obj\Debug\PalindromeIndex.csprojAssemblyReference.cach
 E:\HKrank\PalindromeIndex\obj\Debug\PalindromeIndex.csproj.CoreCompileInputs.cache
 E:\HKrank\PalindromeIndex\obj\Debug\PalindromeIndex.exe
 E:\HKrank\PalindromeIndex\obj\Debug\PalindromeIndex.pdb
+D:\HKrank\PalindromeIndex\bin\Debug\PalindromeIndex.exe.config
+D:\HKrank\PalindromeIndex\bin\Debug\PalindromeIndex.exe
+D:\HKrank\PalindromeIndex\bin\Debug\PalindromeIndex.pdb
+D:\HKrank\PalindromeIndex\obj\Debug\PalindromeIndex.csproj.CoreCompileInputs.cache
+D:\HKrank\PalindromeIndex\obj\Debug\PalindromeIndex.exe
+D:\HKrank\PalindromeIndex\obj\Debug\PalindromeIndex.pdb

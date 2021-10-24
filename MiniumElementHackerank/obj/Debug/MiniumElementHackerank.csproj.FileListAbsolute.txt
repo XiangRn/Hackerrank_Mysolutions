@@ -9,3 +9,4 @@ E:\HKrank\MiniumElementHackerank\obj\Debug\MiniumElementHackerank.csprojAssembly
 E:\HKrank\MiniumElementHackerank\obj\Debug\MiniumElementHackerank.csproj.CoreCompileInputs.cache
 E:\HKrank\MiniumElementHackerank\obj\Debug\MiniumElementHackerank.exe
 E:\HKrank\MiniumElementHackerank\obj\Debug\MiniumElementHackerank.pdb
+D:\HKrank\MiniumElementHackerank\obj\Debug\MiniumElementHackerank.csproj.CoreCompileInputs.cache

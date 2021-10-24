@@ -1,0 +1,7 @@
+D:\HKrank\ViralAdvertising\bin\Debug\ViralAdvertising.exe.config
+D:\HKrank\ViralAdvertising\bin\Debug\ViralAdvertising.exe
+D:\HKrank\ViralAdvertising\bin\Debug\ViralAdvertising.pdb
+D:\HKrank\ViralAdvertising\obj\Debug\ViralAdvertising.csproj.AssemblyReference.cache
+D:\HKrank\ViralAdvertising\obj\Debug\ViralAdvertising.csproj.CoreCompileInputs.cache
+D:\HKrank\ViralAdvertising\obj\Debug\ViralAdvertising.exe
+D:\HKrank\ViralAdvertising\obj\Debug\ViralAdvertising.pdb

@@ -11,3 +11,9 @@ E:\HKrank\HackerrankCutSticks\bin\Debug\HackerrankCutSticks.pdb
 E:\HKrank\HackerrankCutSticks\obj\Debug\HackerrankCutSticks.csproj.CoreCompileInputs.cache
 E:\HKrank\HackerrankCutSticks\obj\Debug\HackerrankCutSticks.exe
 E:\HKrank\HackerrankCutSticks\obj\Debug\HackerrankCutSticks.pdb
+D:\HKrank\HackerrankCutSticks\bin\Debug\HackerrankCutSticks.exe.config
+D:\HKrank\HackerrankCutSticks\bin\Debug\HackerrankCutSticks.exe
+D:\HKrank\HackerrankCutSticks\bin\Debug\HackerrankCutSticks.pdb
+D:\HKrank\HackerrankCutSticks\obj\Debug\HackerrankCutSticks.csproj.CoreCompileInputs.cache
+D:\HKrank\HackerrankCutSticks\obj\Debug\HackerrankCutSticks.exe
+D:\HKrank\HackerrankCutSticks\obj\Debug\HackerrankCutSticks.pdb

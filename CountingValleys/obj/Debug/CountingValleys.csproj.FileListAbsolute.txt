@@ -5,3 +5,4 @@ E:\HKrank\CountingValleys\obj\Debug\CountingValleys.csprojAssemblyReference.cach
 E:\HKrank\CountingValleys\obj\Debug\CountingValleys.csproj.CoreCompileInputs.cache
 E:\HKrank\CountingValleys\obj\Debug\CountingValleys.exe
 E:\HKrank\CountingValleys\obj\Debug\CountingValleys.pdb
+D:\HKrank\CountingValleys\obj\Debug\CountingValleys.csproj.CoreCompileInputs.cache

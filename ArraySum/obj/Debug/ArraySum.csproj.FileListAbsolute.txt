@@ -5,3 +5,9 @@ E:\HKrank\ArraySum\obj\Debug\ArraySum.csprojAssemblyReference.cache
 E:\HKrank\ArraySum\obj\Debug\ArraySum.csproj.CoreCompileInputs.cache
 E:\HKrank\ArraySum\obj\Debug\ArraySum.exe
 E:\HKrank\ArraySum\obj\Debug\ArraySum.pdb
+D:\HKrank\ArraySum\bin\Debug\ArraySum.exe.config
+D:\HKrank\ArraySum\bin\Debug\ArraySum.exe
+D:\HKrank\ArraySum\bin\Debug\ArraySum.pdb
+D:\HKrank\ArraySum\obj\Debug\ArraySum.csproj.CoreCompileInputs.cache
+D:\HKrank\ArraySum\obj\Debug\ArraySum.exe
+D:\HKrank\ArraySum\obj\Debug\ArraySum.pdb

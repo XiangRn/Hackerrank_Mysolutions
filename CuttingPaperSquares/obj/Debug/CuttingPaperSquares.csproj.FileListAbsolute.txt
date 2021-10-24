@@ -4,3 +4,9 @@ E:\HKrank\CuttingPaperSquares\bin\Debug\CuttingPaperSquares.pdb
 E:\HKrank\CuttingPaperSquares\obj\Debug\CuttingPaperSquares.csproj.CoreCompileInputs.cache
 E:\HKrank\CuttingPaperSquares\obj\Debug\CuttingPaperSquares.exe
 E:\HKrank\CuttingPaperSquares\obj\Debug\CuttingPaperSquares.pdb
+D:\HKrank\CuttingPaperSquares\bin\Debug\CuttingPaperSquares.exe.config
+D:\HKrank\CuttingPaperSquares\bin\Debug\CuttingPaperSquares.exe
+D:\HKrank\CuttingPaperSquares\bin\Debug\CuttingPaperSquares.pdb
+D:\HKrank\CuttingPaperSquares\obj\Debug\CuttingPaperSquares.csproj.CoreCompileInputs.cache
+D:\HKrank\CuttingPaperSquares\obj\Debug\CuttingPaperSquares.exe
+D:\HKrank\CuttingPaperSquares\obj\Debug\CuttingPaperSquares.pdb

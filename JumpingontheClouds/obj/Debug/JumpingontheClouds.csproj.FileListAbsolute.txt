@@ -5,3 +5,9 @@ E:\HKrank\JumpingontheClouds\obj\Debug\JumpingontheClouds.csprojAssemblyReferenc
 E:\HKrank\JumpingontheClouds\obj\Debug\JumpingontheClouds.csproj.CoreCompileInputs.cache
 E:\HKrank\JumpingontheClouds\obj\Debug\JumpingontheClouds.exe
 E:\HKrank\JumpingontheClouds\obj\Debug\JumpingontheClouds.pdb
+D:\HKrank\JumpingontheClouds\bin\Debug\JumpingontheClouds.exe.config
+D:\HKrank\JumpingontheClouds\bin\Debug\JumpingontheClouds.exe
+D:\HKrank\JumpingontheClouds\bin\Debug\JumpingontheClouds.pdb
+D:\HKrank\JumpingontheClouds\obj\Debug\JumpingontheClouds.csproj.CoreCompileInputs.cache
+D:\HKrank\JumpingontheClouds\obj\Debug\JumpingontheClouds.exe
+D:\HKrank\JumpingontheClouds\obj\Debug\JumpingontheClouds.pdb

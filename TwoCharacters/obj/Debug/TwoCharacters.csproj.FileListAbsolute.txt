@@ -5,3 +5,9 @@ E:\HKrank\TwoCharacters\obj\Debug\TwoCharacters.csproj.CoreCompileInputs.cache
 E:\HKrank\TwoCharacters\obj\Debug\TwoCharacters.exe
 E:\HKrank\TwoCharacters\obj\Debug\TwoCharacters.pdb
 E:\HKrank\TwoCharacters\obj\Debug\TwoCharacters.csprojAssemblyReference.cache
+D:\HKrank\TwoCharacters\bin\Debug\TwoCharacters.exe.config
+D:\HKrank\TwoCharacters\bin\Debug\TwoCharacters.exe
+D:\HKrank\TwoCharacters\bin\Debug\TwoCharacters.pdb
+D:\HKrank\TwoCharacters\obj\Debug\TwoCharacters.csproj.CoreCompileInputs.cache
+D:\HKrank\TwoCharacters\obj\Debug\TwoCharacters.exe
+D:\HKrank\TwoCharacters\obj\Debug\TwoCharacters.pdb

@@ -1,0 +1,7 @@
+D:\HKrank\SherlockandDivisors\bin\Debug\SherlockandDivisors.exe.config
+D:\HKrank\SherlockandDivisors\bin\Debug\SherlockandDivisors.exe
+D:\HKrank\SherlockandDivisors\bin\Debug\SherlockandDivisors.pdb
+D:\HKrank\SherlockandDivisors\obj\Debug\SherlockandDivisors.csproj.AssemblyReference.cache
+D:\HKrank\SherlockandDivisors\obj\Debug\SherlockandDivisors.csproj.CoreCompileInputs.cache
+D:\HKrank\SherlockandDivisors\obj\Debug\SherlockandDivisors.exe
+D:\HKrank\SherlockandDivisors\obj\Debug\SherlockandDivisors.pdb

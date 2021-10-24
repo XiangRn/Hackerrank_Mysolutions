@@ -5,3 +5,9 @@ E:\HKrank\IntrotoTutorialChallenges\obj\Debug\IntrotoTutorialChallenges.csprojAs
 E:\HKrank\IntrotoTutorialChallenges\obj\Debug\IntrotoTutorialChallenges.csproj.CoreCompileInputs.cache
 E:\HKrank\IntrotoTutorialChallenges\obj\Debug\IntrotoTutorialChallenges.exe
 E:\HKrank\IntrotoTutorialChallenges\obj\Debug\IntrotoTutorialChallenges.pdb
+D:\HKrank\IntrotoTutorialChallenges\bin\Debug\IntrotoTutorialChallenges.exe.config
+D:\HKrank\IntrotoTutorialChallenges\bin\Debug\IntrotoTutorialChallenges.exe
+D:\HKrank\IntrotoTutorialChallenges\bin\Debug\IntrotoTutorialChallenges.pdb
+D:\HKrank\IntrotoTutorialChallenges\obj\Debug\IntrotoTutorialChallenges.csproj.CoreCompileInputs.cache
+D:\HKrank\IntrotoTutorialChallenges\obj\Debug\IntrotoTutorialChallenges.exe
+D:\HKrank\IntrotoTutorialChallenges\obj\Debug\IntrotoTutorialChallenges.pdb

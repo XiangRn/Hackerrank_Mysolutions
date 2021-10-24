@@ -11,3 +11,9 @@ E:\HKrank\HackerrankMoreLinkedLists\bin\Debug\HackerrankMoreLinkedLists.pdb
 E:\HKrank\HackerrankMoreLinkedLists\obj\Debug\HackerrankMoreLinkedLists.csproj.CoreCompileInputs.cache
 E:\HKrank\HackerrankMoreLinkedLists\obj\Debug\HackerrankMoreLinkedLists.exe
 E:\HKrank\HackerrankMoreLinkedLists\obj\Debug\HackerrankMoreLinkedLists.pdb
+D:\HKrank\HackerrankMoreLinkedLists\bin\Debug\HackerrankMoreLinkedLists.exe.config
+D:\HKrank\HackerrankMoreLinkedLists\bin\Debug\HackerrankMoreLinkedLists.exe
+D:\HKrank\HackerrankMoreLinkedLists\bin\Debug\HackerrankMoreLinkedLists.pdb
+D:\HKrank\HackerrankMoreLinkedLists\obj\Debug\HackerrankMoreLinkedLists.csproj.CoreCompileInputs.cache
+D:\HKrank\HackerrankMoreLinkedLists\obj\Debug\HackerrankMoreLinkedLists.exe
+D:\HKrank\HackerrankMoreLinkedLists\obj\Debug\HackerrankMoreLinkedLists.pdb

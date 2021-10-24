@@ -5,3 +5,9 @@ E:\HKrank\Leonardo'sPrimeFactors\obj\Debug\Leonardo'sPrimeFactors.csproj.CoreCom
 E:\HKrank\Leonardo'sPrimeFactors\obj\Debug\Leonardo'sPrimeFactors.exe
 E:\HKrank\Leonardo'sPrimeFactors\obj\Debug\Leonardo'sPrimeFactors.pdb
 E:\HKrank\Leonardo'sPrimeFactors\obj\Debug\Leonardo'sPrimeFactors.csprojAssemblyReference.cache
+D:\HKrank\Leonardo'sPrimeFactors\bin\Debug\Leonardo'sPrimeFactors.exe.config
+D:\HKrank\Leonardo'sPrimeFactors\bin\Debug\Leonardo'sPrimeFactors.exe
+D:\HKrank\Leonardo'sPrimeFactors\bin\Debug\Leonardo'sPrimeFactors.pdb
+D:\HKrank\Leonardo'sPrimeFactors\obj\Debug\Leonardo'sPrimeFactors.csproj.CoreCompileInputs.cache
+D:\HKrank\Leonardo'sPrimeFactors\obj\Debug\Leonardo'sPrimeFactors.exe
+D:\HKrank\Leonardo'sPrimeFactors\obj\Debug\Leonardo'sPrimeFactors.pdb

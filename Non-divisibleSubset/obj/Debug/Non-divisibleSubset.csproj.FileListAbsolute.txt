@@ -4,3 +4,9 @@ E:\HKrank\Non-divisibleSubset\bin\Debug\Non-divisibleSubset.pdb
 E:\HKrank\Non-divisibleSubset\obj\Debug\Non-divisibleSubset.csproj.CoreCompileInputs.cache
 E:\HKrank\Non-divisibleSubset\obj\Debug\Non-divisibleSubset.exe
 E:\HKrank\Non-divisibleSubset\obj\Debug\Non-divisibleSubset.pdb
+D:\HKrank\Non-divisibleSubset\bin\Debug\Non-divisibleSubset.exe.config
+D:\HKrank\Non-divisibleSubset\bin\Debug\Non-divisibleSubset.exe
+D:\HKrank\Non-divisibleSubset\bin\Debug\Non-divisibleSubset.pdb
+D:\HKrank\Non-divisibleSubset\obj\Debug\Non-divisibleSubset.csproj.CoreCompileInputs.cache
+D:\HKrank\Non-divisibleSubset\obj\Debug\Non-divisibleSubset.exe
+D:\HKrank\Non-divisibleSubset\obj\Debug\Non-divisibleSubset.pdb

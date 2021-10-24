@@ -4,3 +4,10 @@ E:\HKrank\Hackerrank\bin\Debug\Hackerrank.pdb
 E:\HKrank\Hackerrank\obj\Debug\Hackerrank.csproj.CoreCompileInputs.cache
 E:\HKrank\Hackerrank\obj\Debug\Hackerrank.exe
 E:\HKrank\Hackerrank\obj\Debug\Hackerrank.pdb
+D:\HKrank\Hackerrank\bin\Debug\Hackerrank.exe.config
+D:\HKrank\Hackerrank\bin\Debug\Hackerrank.exe
+D:\HKrank\Hackerrank\bin\Debug\Hackerrank.pdb
+D:\HKrank\Hackerrank\obj\Debug\Hackerrank.csproj.AssemblyReference.cache
+D:\HKrank\Hackerrank\obj\Debug\Hackerrank.csproj.CoreCompileInputs.cache
+D:\HKrank\Hackerrank\obj\Debug\Hackerrank.exe
+D:\HKrank\Hackerrank\obj\Debug\Hackerrank.pdb

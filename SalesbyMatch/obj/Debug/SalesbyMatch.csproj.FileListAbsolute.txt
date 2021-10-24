@@ -4,3 +4,9 @@ E:\HKrank\SalesbyMatch\bin\Debug\SalesbyMatch.pdb
 E:\HKrank\SalesbyMatch\obj\Debug\SalesbyMatch.csproj.CoreCompileInputs.cache
 E:\HKrank\SalesbyMatch\obj\Debug\SalesbyMatch.exe
 E:\HKrank\SalesbyMatch\obj\Debug\SalesbyMatch.pdb
+D:\HKrank\SalesbyMatch\bin\Debug\SalesbyMatch.exe.config
+D:\HKrank\SalesbyMatch\bin\Debug\SalesbyMatch.exe
+D:\HKrank\SalesbyMatch\bin\Debug\SalesbyMatch.pdb
+D:\HKrank\SalesbyMatch\obj\Debug\SalesbyMatch.csproj.CoreCompileInputs.cache
+D:\HKrank\SalesbyMatch\obj\Debug\SalesbyMatch.exe
+D:\HKrank\SalesbyMatch\obj\Debug\SalesbyMatch.pdb

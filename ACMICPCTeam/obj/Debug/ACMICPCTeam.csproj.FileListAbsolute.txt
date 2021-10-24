@@ -4,3 +4,9 @@ E:\HKrank\ACMICPCTeam\bin\Debug\ACMICPCTeam.pdb
 E:\HKrank\ACMICPCTeam\obj\Debug\ACMICPCTeam.csproj.CoreCompileInputs.cache
 E:\HKrank\ACMICPCTeam\obj\Debug\ACMICPCTeam.exe
 E:\HKrank\ACMICPCTeam\obj\Debug\ACMICPCTeam.pdb
+D:\HKrank\ACMICPCTeam\bin\Debug\ACMICPCTeam.exe.config
+D:\HKrank\ACMICPCTeam\bin\Debug\ACMICPCTeam.exe
+D:\HKrank\ACMICPCTeam\bin\Debug\ACMICPCTeam.pdb
+D:\HKrank\ACMICPCTeam\obj\Debug\ACMICPCTeam.csproj.CoreCompileInputs.cache
+D:\HKrank\ACMICPCTeam\obj\Debug\ACMICPCTeam.exe
+D:\HKrank\ACMICPCTeam\obj\Debug\ACMICPCTeam.pdb

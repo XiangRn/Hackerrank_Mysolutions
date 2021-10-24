@@ -4,3 +4,9 @@ E:\HKrank\SuperReducedString\bin\Debug\SuperReducedString.pdb
 E:\HKrank\SuperReducedString\obj\Debug\SuperReducedString.csproj.CoreCompileInputs.cache
 E:\HKrank\SuperReducedString\obj\Debug\SuperReducedString.exe
 E:\HKrank\SuperReducedString\obj\Debug\SuperReducedString.pdb
+D:\HKrank\SuperReducedString\bin\Debug\SuperReducedString.exe.config
+D:\HKrank\SuperReducedString\bin\Debug\SuperReducedString.exe
+D:\HKrank\SuperReducedString\bin\Debug\SuperReducedString.pdb
+D:\HKrank\SuperReducedString\obj\Debug\SuperReducedString.csproj.CoreCompileInputs.cache
+D:\HKrank\SuperReducedString\obj\Debug\SuperReducedString.exe
+D:\HKrank\SuperReducedString\obj\Debug\SuperReducedString.pdb

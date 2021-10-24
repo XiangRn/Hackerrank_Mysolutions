@@ -4,3 +4,9 @@ E:\HKrank\Pangrams\bin\Debug\Pangrams.pdb
 E:\HKrank\Pangrams\obj\Debug\Pangrams.csproj.CoreCompileInputs.cache
 E:\HKrank\Pangrams\obj\Debug\Pangrams.exe
 E:\HKrank\Pangrams\obj\Debug\Pangrams.pdb
+D:\HKrank\Pangrams\bin\Debug\Pangrams.exe.config
+D:\HKrank\Pangrams\bin\Debug\Pangrams.exe
+D:\HKrank\Pangrams\bin\Debug\Pangrams.pdb
+D:\HKrank\Pangrams\obj\Debug\Pangrams.csproj.CoreCompileInputs.cache
+D:\HKrank\Pangrams\obj\Debug\Pangrams.exe
+D:\HKrank\Pangrams\obj\Debug\Pangrams.pdb

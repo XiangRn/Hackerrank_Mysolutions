@@ -4,3 +4,9 @@ E:\HKrank\CaesarCipher\bin\Debug\CaesarCipher.pdb
 E:\HKrank\CaesarCipher\obj\Debug\CaesarCipher.csproj.CoreCompileInputs.cache
 E:\HKrank\CaesarCipher\obj\Debug\CaesarCipher.exe
 E:\HKrank\CaesarCipher\obj\Debug\CaesarCipher.pdb
+D:\HKrank\CaesarCipher\bin\Debug\CaesarCipher.exe.config
+D:\HKrank\CaesarCipher\bin\Debug\CaesarCipher.exe
+D:\HKrank\CaesarCipher\bin\Debug\CaesarCipher.pdb
+D:\HKrank\CaesarCipher\obj\Debug\CaesarCipher.csproj.CoreCompileInputs.cache
+D:\HKrank\CaesarCipher\obj\Debug\CaesarCipher.exe
+D:\HKrank\CaesarCipher\obj\Debug\CaesarCipher.pdb

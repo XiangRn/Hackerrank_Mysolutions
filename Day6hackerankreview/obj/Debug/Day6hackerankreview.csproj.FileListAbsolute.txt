@@ -10,3 +10,9 @@ E:\HKrank\Day6hackerankreview\bin\Debug\Day6hackerankreview.pdb
 E:\HKrank\Day6hackerankreview\obj\Debug\Day6hackerankreview.csproj.CoreCompileInputs.cache
 E:\HKrank\Day6hackerankreview\obj\Debug\Day6hackerankreview.exe
 E:\HKrank\Day6hackerankreview\obj\Debug\Day6hackerankreview.pdb
+D:\HKrank\Day6hackerankreview\bin\Debug\Day6hackerankreview.exe.config
+D:\HKrank\Day6hackerankreview\bin\Debug\Day6hackerankreview.exe
+D:\HKrank\Day6hackerankreview\bin\Debug\Day6hackerankreview.pdb
+D:\HKrank\Day6hackerankreview\obj\Debug\Day6hackerankreview.csproj.CoreCompileInputs.cache
+D:\HKrank\Day6hackerankreview\obj\Debug\Day6hackerankreview.exe
+D:\HKrank\Day6hackerankreview\obj\Debug\Day6hackerankreview.pdb

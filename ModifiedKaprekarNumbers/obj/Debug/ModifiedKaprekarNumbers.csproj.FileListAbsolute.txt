@@ -5,3 +5,10 @@ E:\HKrank\ModifiedKaprekarNumbers\obj\Debug\ModifiedKaprekarNumbers.csprojAssemb
 E:\HKrank\ModifiedKaprekarNumbers\obj\Debug\ModifiedKaprekarNumbers.csproj.CoreCompileInputs.cache
 E:\HKrank\ModifiedKaprekarNumbers\obj\Debug\ModifiedKaprekarNumbers.exe
 E:\HKrank\ModifiedKaprekarNumbers\obj\Debug\ModifiedKaprekarNumbers.pdb
+D:\HKrank\ModifiedKaprekarNumbers\bin\Debug\ModifiedKaprekarNumbers.exe.config
+D:\HKrank\ModifiedKaprekarNumbers\bin\Debug\ModifiedKaprekarNumbers.exe
+D:\HKrank\ModifiedKaprekarNumbers\bin\Debug\ModifiedKaprekarNumbers.pdb
+D:\HKrank\ModifiedKaprekarNumbers\obj\Debug\ModifiedKaprekarNumbers.csproj.AssemblyReference.cache
+D:\HKrank\ModifiedKaprekarNumbers\obj\Debug\ModifiedKaprekarNumbers.csproj.CoreCompileInputs.cache
+D:\HKrank\ModifiedKaprekarNumbers\obj\Debug\ModifiedKaprekarNumbers.exe
+D:\HKrank\ModifiedKaprekarNumbers\obj\Debug\ModifiedKaprekarNumbers.pdb

@@ -11,3 +11,9 @@ E:\HKrank\HackerrankChocolateFeast\bin\Debug\HackerrankChocolateFeast.pdb
 E:\HKrank\HackerrankChocolateFeast\obj\Debug\HackerrankChocolateFeast.csproj.CoreCompileInputs.cache
 E:\HKrank\HackerrankChocolateFeast\obj\Debug\HackerrankChocolateFeast.exe
 E:\HKrank\HackerrankChocolateFeast\obj\Debug\HackerrankChocolateFeast.pdb
+D:\HKrank\HackerrankChocolateFeast\bin\Debug\HackerrankChocolateFeast.exe.config
+D:\HKrank\HackerrankChocolateFeast\bin\Debug\HackerrankChocolateFeast.exe
+D:\HKrank\HackerrankChocolateFeast\bin\Debug\HackerrankChocolateFeast.pdb
+D:\HKrank\HackerrankChocolateFeast\obj\Debug\HackerrankChocolateFeast.csproj.CoreCompileInputs.cache
+D:\HKrank\HackerrankChocolateFeast\obj\Debug\HackerrankChocolateFeast.exe
+D:\HKrank\HackerrankChocolateFeast\obj\Debug\HackerrankChocolateFeast.pdb

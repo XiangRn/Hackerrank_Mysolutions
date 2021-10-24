@@ -4,3 +4,9 @@ E:\HKrank\SubarrayDivision\bin\Debug\SubarrayDivision.pdb
 E:\HKrank\SubarrayDivision\obj\Debug\SubarrayDivision.csproj.CoreCompileInputs.cache
 E:\HKrank\SubarrayDivision\obj\Debug\SubarrayDivision.exe
 E:\HKrank\SubarrayDivision\obj\Debug\SubarrayDivision.pdb
+D:\HKrank\SubarrayDivision\bin\Debug\SubarrayDivision.exe.config
+D:\HKrank\SubarrayDivision\bin\Debug\SubarrayDivision.exe
+D:\HKrank\SubarrayDivision\bin\Debug\SubarrayDivision.pdb
+D:\HKrank\SubarrayDivision\obj\Debug\SubarrayDivision.csproj.CoreCompileInputs.cache
+D:\HKrank\SubarrayDivision\obj\Debug\SubarrayDivision.exe
+D:\HKrank\SubarrayDivision\obj\Debug\SubarrayDivision.pdb

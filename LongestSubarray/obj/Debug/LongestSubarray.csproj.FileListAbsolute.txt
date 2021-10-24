@@ -4,3 +4,9 @@ E:\HKrank\LongestSubarray\bin\Debug\LongestSubarray.pdb
 E:\HKrank\LongestSubarray\obj\Debug\LongestSubarray.csproj.CoreCompileInputs.cache
 E:\HKrank\LongestSubarray\obj\Debug\LongestSubarray.exe
 E:\HKrank\LongestSubarray\obj\Debug\LongestSubarray.pdb
+D:\HKrank\LongestSubarray\bin\Debug\LongestSubarray.exe.config
+D:\HKrank\LongestSubarray\bin\Debug\LongestSubarray.exe
+D:\HKrank\LongestSubarray\bin\Debug\LongestSubarray.pdb
+D:\HKrank\LongestSubarray\obj\Debug\LongestSubarray.csproj.CoreCompileInputs.cache
+D:\HKrank\LongestSubarray\obj\Debug\LongestSubarray.exe
+D:\HKrank\LongestSubarray\obj\Debug\LongestSubarray.pdb

@@ -4,3 +4,9 @@ E:\HKrank\HackerRankinaString\bin\Debug\HackerRankinaString.pdb
 E:\HKrank\HackerRankinaString\obj\Debug\HackerRankinaString.csproj.CoreCompileInputs.cache
 E:\HKrank\HackerRankinaString\obj\Debug\HackerRankinaString.exe
 E:\HKrank\HackerRankinaString\obj\Debug\HackerRankinaString.pdb
+D:\HKrank\HackerRankinaString\bin\Debug\HackerRankinaString.exe.config
+D:\HKrank\HackerRankinaString\bin\Debug\HackerRankinaString.exe
+D:\HKrank\HackerRankinaString\bin\Debug\HackerRankinaString.pdb
+D:\HKrank\HackerRankinaString\obj\Debug\HackerRankinaString.csproj.CoreCompileInputs.cache
+D:\HKrank\HackerRankinaString\obj\Debug\HackerRankinaString.exe
+D:\HKrank\HackerRankinaString\obj\Debug\HackerRankinaString.pdb
