@@ -159,6 +159,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SparseArrays", "..\SparseAr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViralAdvertising", "..\ViralAdvertising\ViralAdvertising.csproj", "{6F43D76A-B908-4D2F-A25D-A1D4E8E8A192}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircularArrayRotation", "..\CircularArrayRotation\CircularArrayRotation.csproj", "{5FBDA39D-4398-4C00-A570-FA70DDDBCB17}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -477,6 +479,10 @@ Global
 		{6F43D76A-B908-4D2F-A25D-A1D4E8E8A192}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F43D76A-B908-4D2F-A25D-A1D4E8E8A192}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F43D76A-B908-4D2F-A25D-A1D4E8E8A192}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FBDA39D-4398-4C00-A570-FA70DDDBCB17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FBDA39D-4398-4C00-A570-FA70DDDBCB17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FBDA39D-4398-4C00-A570-FA70DDDBCB17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FBDA39D-4398-4C00-A570-FA70DDDBCB17}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

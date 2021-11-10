@@ -1,0 +1,7 @@
+D:\HKrank\CircularArrayRotation\bin\Debug\CircularArrayRotation.exe.config
+D:\HKrank\CircularArrayRotation\bin\Debug\CircularArrayRotation.exe
+D:\HKrank\CircularArrayRotation\bin\Debug\CircularArrayRotation.pdb
+D:\HKrank\CircularArrayRotation\obj\Debug\CircularArrayRotation.csproj.AssemblyReference.cache
+D:\HKrank\CircularArrayRotation\obj\Debug\CircularArrayRotation.csproj.CoreCompileInputs.cache
+D:\HKrank\CircularArrayRotation\obj\Debug\CircularArrayRotation.exe
+D:\HKrank\CircularArrayRotation\obj\Debug\CircularArrayRotation.pdb
