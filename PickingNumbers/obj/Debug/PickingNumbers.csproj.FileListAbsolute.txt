@@ -1,0 +1,7 @@
+D:\HKrank\PickingNumbers\bin\Debug\PickingNumbers.exe.config
+D:\HKrank\PickingNumbers\bin\Debug\PickingNumbers.exe
+D:\HKrank\PickingNumbers\bin\Debug\PickingNumbers.pdb
+D:\HKrank\PickingNumbers\obj\Debug\PickingNumbers.csproj.AssemblyReference.cache
+D:\HKrank\PickingNumbers\obj\Debug\PickingNumbers.csproj.CoreCompileInputs.cache
+D:\HKrank\PickingNumbers\obj\Debug\PickingNumbers.exe
+D:\HKrank\PickingNumbers\obj\Debug\PickingNumbers.pdb
